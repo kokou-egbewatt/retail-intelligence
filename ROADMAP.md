@@ -40,7 +40,7 @@ This project demonstrates how to build a **secure**, **scalable**, and **enterpr
 ---
 
 ## **Project Overview**
-
+Adding all these details 
 **GlobalCart** operates across multiple countries with different:
 
 | **Dimension**        | **Examples**                    |
