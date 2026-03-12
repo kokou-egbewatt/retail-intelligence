@@ -1,0 +1,5072 @@
+[
+{
+"country": "Canada",
+"product_id": "CA-A-0000",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 45.46,
+"currency": "CAD",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Canada",
+"product_id": "CA-B-0001",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 65.37,
+"currency": "CAD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-C-0002",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 439.77,
+"currency": "EUR",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-D-0003",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 61.15,
+"currency": "USD",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0004",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 60953.04,
+"currency": "XOF",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Germany",
+"product_id": "GE-F-0005",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 37.43,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-G-0006",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 72643.85,
+"currency": "NGN",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Ghana",
+"product_id": "GH-H-0007",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 1035.58,
+"currency": "GHS",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "France",
+"product_id": "FR-I-0008",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 34.35,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United States",
+"product_id": "US-J-0009",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 26.42,
+"currency": "USD",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Canada",
+"product_id": "CA-K-0010",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 110.87,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Kenya",
+"product_id": "KE-L-0011",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 5715.05,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-M-0012",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 22.42,
+"currency": "GBP",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United States",
+"product_id": "US-N-0013",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 224.78,
+"currency": "USD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-O-0014",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 2087330.28,
+"currency": "NGN",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-P-0015",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 40.54,
+"currency": "GBP",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0016",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 51.71,
+"currency": "CAD",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-R-0017",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 20.55,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Canada",
+"product_id": "CA-S-0018",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 63.88,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-T-0019",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 288843.01,
+"currency": "XOF",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-U-0020",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 21560.57,
+"currency": "ZAR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-V-0021",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 42344.44,
+"currency": "NGN",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "South Africa",
+"product_id": "SA-W-0022",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 1750.33,
+"currency": "ZAR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-X-0023",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 115661.71,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-Y-0024",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 71.36,
+"currency": "USD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Germany",
+"product_id": "GE-Z-0025",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 43.59,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United States",
+"product_id": "US-A-0026",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 51.93,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Canada",
+"product_id": "CA-B-0027",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 276.29,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-C-0028",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 657.39,
+"currency": "GHS",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-D-0029",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 117811.69,
+"currency": "XOF",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-E-0030",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 6433.87,
+"currency": "GHS",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-F-0031",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 976.74,
+"currency": "ZAR",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "France",
+"product_id": "FR-G-0032",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 39.98,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-H-0033",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 13029.51,
+"currency": "KES",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Ghana",
+"product_id": "GH-I-0034",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 16002.53,
+"currency": "GHS",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-J-0035",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 28863.19,
+"currency": "XOF",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United States",
+"product_id": "US-K-0036",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1288.65,
+"currency": "USD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-L-0037",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 12348.3,
+"currency": "KES",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-M-0038",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 59.49,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-N-0039",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 145009.86,
+"currency": "NGN",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-O-0040",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 3320.44,
+"currency": "KES",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Canada",
+"product_id": "CA-P-0041",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 64.91,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Q-0042",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 25.88,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-R-0043",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 47.85,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Ghana",
+"product_id": "GH-S-0044",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1311.27,
+"currency": "GHS",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-T-0045",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 194.46,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Germany",
+"product_id": "GE-U-0046",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 26.69,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "South Africa",
+"product_id": "SA-V-0047",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 1462.57,
+"currency": "ZAR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "South Africa",
+"product_id": "SA-W-0048",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 515.36,
+"currency": "ZAR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-X-0049",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 59.45,
+"currency": "GBP",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "South Africa",
+"product_id": "SA-Y-0050",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 1783.53,
+"currency": "ZAR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Ghana",
+"product_id": "GH-Z-0051",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 1145.53,
+"currency": "GHS",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-A-0052",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 147.01,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Ghana",
+"product_id": "GH-B-0053",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 467.82,
+"currency": "GHS",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-C-0054",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 70.38,
+"currency": "GBP",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Germany",
+"product_id": "GE-D-0055",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 176.49,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-E-0056",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 5824.24,
+"currency": "KES",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-F-0057",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3879.26,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-G-0058",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 359.33,
+"currency": "GBP",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "France",
+"product_id": "FR-H-0059",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 27.71,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-I-0060",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 61.61,
+"currency": "CAD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Canada",
+"product_id": "CA-J-0061",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 56.83,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "France",
+"product_id": "FR-K-0062",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 43.1,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "France",
+"product_id": "FR-L-0063",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 44.11,
+"currency": "EUR",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-M-0064",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 16704.76,
+"currency": "XOF",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-N-0065",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 147.29,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-O-0066",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 32448.44,
+"currency": "XOF",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Kenya",
+"product_id": "KE-P-0067",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 3583.92,
+"currency": "KES",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Q-0068",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 40.48,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-R-0069",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 318172.31,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-S-0070",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 42.89,
+"currency": "GBP",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Ghana",
+"product_id": "GH-T-0071",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 479.62,
+"currency": "GHS",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "France",
+"product_id": "FR-U-0072",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 69.32,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-V-0073",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 19730.0,
+"currency": "XOF",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-W-0074",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 301398.8,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Germany",
+"product_id": "GE-X-0075",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 85.23,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Y-0076",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 76882.46,
+"currency": "NGN",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Canada",
+"product_id": "CA-Z-0077",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1796.58,
+"currency": "CAD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "South Africa",
+"product_id": "SA-A-0078",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 526.53,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Germany",
+"product_id": "GE-B-0079",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 24.64,
+"currency": "EUR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "United States",
+"product_id": "US-C-0080",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 511.1,
+"currency": "USD",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-D-0081",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 112806.71,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Germany",
+"product_id": "GE-E-0082",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 198.15,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "France",
+"product_id": "FR-F-0083",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 33.38,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-G-0084",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 54.3,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Germany",
+"product_id": "GE-H-0085",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 77.01,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-I-0086",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 48.83,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Germany",
+"product_id": "GE-J-0087",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 51.51,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-K-0088",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 127179.24,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Canada",
+"product_id": "CA-L-0089",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 73.52,
+"currency": "CAD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "South Africa",
+"product_id": "SA-M-0090",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 818.59,
+"currency": "ZAR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-N-0091",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 76.58,
+"currency": "GBP",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-O-0092",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 139758.47,
+"currency": "NGN",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "France",
+"product_id": "FR-P-0093",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 55.4,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Kenya",
+"product_id": "KE-Q-0094",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 9812.89,
+"currency": "KES",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Ghana",
+"product_id": "GH-R-0095",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 15910.08,
+"currency": "GHS",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "United States",
+"product_id": "US-S-0096",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 43.84,
+"currency": "USD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "France",
+"product_id": "FR-T-0097",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 35.88,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-U-0098",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 18685.44,
+"currency": "XOF",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United States",
+"product_id": "US-V-0099",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 82.89,
+"currency": "USD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0100",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 164647.86,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-X-0101",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 5652.93,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-Y-0102",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 24.92,
+"currency": "GBP",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-Z-0103",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 3579.24,
+"currency": "KES",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-A-0104",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 29.28,
+"currency": "GBP",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Ghana",
+"product_id": "GH-B-0105",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 346.41,
+"currency": "GHS",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "France",
+"product_id": "FR-C-0106",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 42.12,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-D-0107",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 2097865.31,
+"currency": "NGN",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-E-0108",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 132801.93,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-F-0109",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1323.15,
+"currency": "USD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-G-0110",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 3678.05,
+"currency": "KES",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-H-0111",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 76.12,
+"currency": "GBP",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Kenya",
+"product_id": "KE-I-0112",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 6836.51,
+"currency": "KES",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Kenya",
+"product_id": "KE-J-0113",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 11833.92,
+"currency": "KES",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-K-0114",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 936.17,
+"currency": "GBP",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Ghana",
+"product_id": "GH-L-0115",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 1116.3,
+"currency": "GHS",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-M-0116",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 798378.98,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-N-0117",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 177.34,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "France",
+"product_id": "FR-O-0118",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 40.64,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "France",
+"product_id": "FR-P-0119",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 26.45,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-Q-0120",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 85.32,
+"currency": "GBP",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United States",
+"product_id": "US-R-0121",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 58.4,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-S-0122",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 45.97,
+"currency": "EUR",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "South Africa",
+"product_id": "SA-T-0123",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3434.17,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "France",
+"product_id": "FR-U-0124",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1076.68,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-V-0125",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 25.43,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0126",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 13067.77,
+"currency": "KES",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Germany",
+"product_id": "GE-X-0127",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 53.79,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "South Africa",
+"product_id": "SA-Y-0128",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 839.8,
+"currency": "ZAR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Ghana",
+"product_id": "GH-Z-0129",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 15223.12,
+"currency": "GHS",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-A-0130",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 47530.5,
+"currency": "XOF",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-B-0131",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 51.55,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "France",
+"product_id": "FR-C-0132",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 52.72,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-D-0133",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 51200.17,
+"currency": "NGN",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "France",
+"product_id": "FR-E-0134",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 38.25,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United States",
+"product_id": "US-F-0135",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 40.47,
+"currency": "USD",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Kenya",
+"product_id": "KE-G-0136",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 61239.5,
+"currency": "KES",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-H-0137",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 10285.56,
+"currency": "KES",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Canada",
+"product_id": "CA-I-0138",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 40.96,
+"currency": "CAD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United States",
+"product_id": "US-J-0139",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 41.67,
+"currency": "USD",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-K-0140",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 52141.47,
+"currency": "XOF",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-L-0141",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 37382.72,
+"currency": "XOF",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-M-0142",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 47776.03,
+"currency": "NGN",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-N-0143",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 356.53,
+"currency": "GBP",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-O-0144",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 53.5,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "United States",
+"product_id": "US-P-0145",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 107.64,
+"currency": "USD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0146",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 263.42,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-R-0147",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 131066.28,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-S-0148",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 31.56,
+"currency": "USD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Kenya",
+"product_id": "KE-T-0149",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 167125.42,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-U-0150",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 62368.81,
+"currency": "NGN",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "South Africa",
+"product_id": "SA-V-0151",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 718.08,
+"currency": "ZAR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Ghana",
+"product_id": "GH-W-0152",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1185.97,
+"currency": "GHS",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United States",
+"product_id": "US-X-0153",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 99.02,
+"currency": "USD",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-Y-0154",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 4112.66,
+"currency": "KES",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-Z-0155",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 275845.08,
+"currency": "XOF",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-A-0156",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 149814.02,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "France",
+"product_id": "FR-B-0157",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 29.5,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United States",
+"product_id": "US-C-0158",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1314.54,
+"currency": "USD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Ghana",
+"product_id": "GH-D-0159",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 727.65,
+"currency": "GHS",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-E-0160",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 70755.96,
+"currency": "NGN",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-F-0161",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 34.53,
+"currency": "GBP",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-G-0162",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 125.4,
+"currency": "CAD",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-H-0163",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 28.0,
+"currency": "GBP",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-I-0164",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 77865.72,
+"currency": "NGN",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-J-0165",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 768450.97,
+"currency": "XOF",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-K-0166",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 33.76,
+"currency": "GBP",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Germany",
+"product_id": "GE-L-0167",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 34.31,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Germany",
+"product_id": "GE-M-0168",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 34.02,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United States",
+"product_id": "US-N-0169",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 52.57,
+"currency": "USD",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-O-0170",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 17862.84,
+"currency": "XOF",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-P-0171",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 141431.7,
+"currency": "NGN",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Germany",
+"product_id": "GE-Q-0172",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 46.64,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Kenya",
+"product_id": "KE-R-0173",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 4017.82,
+"currency": "KES",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-S-0174",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 641.99,
+"currency": "ZAR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Ghana",
+"product_id": "GH-T-0175",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 964.74,
+"currency": "GHS",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "South Africa",
+"product_id": "SA-U-0176",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 555.83,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-V-0177",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 19.27,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-W-0178",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 83503.05,
+"currency": "NGN",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Germany",
+"product_id": "GE-X-0179",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 194.92,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-Y-0180",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1168.94,
+"currency": "GHS",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Z-0181",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 120566.98,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Germany",
+"product_id": "GE-A-0182",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 70.15,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-B-0183",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 92.62,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-C-0184",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 32651.99,
+"currency": "XOF",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "France",
+"product_id": "FR-D-0185",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 28.98,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0186",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 16767.64,
+"currency": "XOF",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Germany",
+"product_id": "GE-F-0187",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 41.9,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-G-0188",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 74841.87,
+"currency": "NGN",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "France",
+"product_id": "FR-H-0189",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 83.05,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-I-0190",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 168818.76,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "France",
+"product_id": "FR-J-0191",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 28.14,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-K-0192",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 173.7,
+"currency": "GBP",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-L-0193",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 142670.7,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Germany",
+"product_id": "GE-M-0194",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 44.16,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-N-0195",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 27321.74,
+"currency": "XOF",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Canada",
+"product_id": "CA-O-0196",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 284.63,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Germany",
+"product_id": "GE-P-0197",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 47.29,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Q-0198",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1194.95,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-R-0199",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 16744.04,
+"currency": "XOF",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Germany",
+"product_id": "GE-S-0200",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 78.93,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Kenya",
+"product_id": "KE-T-0201",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 7526.57,
+"currency": "KES",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Kenya",
+"product_id": "KE-U-0202",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 6454.77,
+"currency": "KES",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Kenya",
+"product_id": "KE-V-0203",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 165617.02,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0204",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 6351.11,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-X-0205",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 129425.85,
+"currency": "NGN",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Y-0206",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 34.86,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Z-0207",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 163193.66,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "France",
+"product_id": "FR-A-0208",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 28.63,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-B-0209",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 178.0,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-C-0210",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3860.65,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-D-0211",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 484.38,
+"currency": "USD",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-E-0212",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 474.1,
+"currency": "GHS",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-F-0213",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 717093.3,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-G-0214",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 526.16,
+"currency": "GHS",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-H-0215",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 734731.06,
+"currency": "XOF",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Canada",
+"product_id": "CA-I-0216",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 37.82,
+"currency": "CAD",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Ghana",
+"product_id": "GH-J-0217",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 1253.96,
+"currency": "GHS",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-K-0218",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 169061.1,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-L-0219",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 4972.21,
+"currency": "KES",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-M-0220",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 33958.51,
+"currency": "XOF",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-N-0221",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 330192.84,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-O-0222",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 159351.57,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-P-0223",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 17753.38,
+"currency": "XOF",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0224",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1574.89,
+"currency": "CAD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Ghana",
+"product_id": "GH-R-0225",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 391.91,
+"currency": "GHS",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "South Africa",
+"product_id": "SA-S-0226",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 699.34,
+"currency": "ZAR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Germany",
+"product_id": "GE-T-0227",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 36.32,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-U-0228",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 81.05,
+"currency": "GBP",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "France",
+"product_id": "FR-V-0229",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 50.02,
+"currency": "EUR",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "South Africa",
+"product_id": "SA-W-0230",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 823.13,
+"currency": "ZAR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "France",
+"product_id": "FR-X-0231",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 25.98,
+"currency": "EUR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Y-0232",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 73450.14,
+"currency": "NGN",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Z-0233",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 152905.59,
+"currency": "NGN",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "France",
+"product_id": "FR-A-0234",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 27.62,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-B-0235",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 202.09,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "France",
+"product_id": "FR-C-0236",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 28.98,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-D-0237",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 125438.39,
+"currency": "XOF",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0238",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 15217.98,
+"currency": "XOF",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-F-0239",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 84334.45,
+"currency": "NGN",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "United States",
+"product_id": "US-G-0240",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 47.27,
+"currency": "USD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Canada",
+"product_id": "CA-H-0241",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 144.51,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Canada",
+"product_id": "CA-I-0242",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 80.8,
+"currency": "CAD",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "France",
+"product_id": "FR-J-0243",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 41.67,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-K-0244",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 3580.58,
+"currency": "KES",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "France",
+"product_id": "FR-L-0245",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 83.36,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-M-0246",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 24.38,
+"currency": "GBP",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "France",
+"product_id": "FR-N-0247",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 32.31,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-O-0248",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 157.16,
+"currency": "GBP",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-P-0249",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 472.34,
+"currency": "ZAR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Ghana",
+"product_id": "GH-Q-0250",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 640.71,
+"currency": "GHS",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Ghana",
+"product_id": "GH-R-0251",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 15094.07,
+"currency": "GHS",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-S-0252",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 301289.95,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-T-0253",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1008.73,
+"currency": "GBP",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-U-0254",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 25.27,
+"currency": "GBP",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-V-0255",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 76233.19,
+"currency": "NGN",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "United States",
+"product_id": "US-W-0256",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 50.4,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "France",
+"product_id": "FR-X-0257",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 26.14,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-Y-0258",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 33065.95,
+"currency": "XOF",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "United States",
+"product_id": "US-Z-0259",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 43.89,
+"currency": "USD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-A-0260",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 36.81,
+"currency": "GBP",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-B-0261",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 111.62,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-C-0262",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 43034.13,
+"currency": "XOF",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Germany",
+"product_id": "GE-D-0263",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 179.47,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-E-0264",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 368.81,
+"currency": "GHS",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Germany",
+"product_id": "GE-F-0265",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 23.96,
+"currency": "EUR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "United States",
+"product_id": "US-G-0266",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 51.4,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Kenya",
+"product_id": "KE-H-0267",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 5865.11,
+"currency": "KES",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-I-0268",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 50.98,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-J-0269",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 24152.02,
+"currency": "XOF",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "France",
+"product_id": "FR-K-0270",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 81.1,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-L-0271",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 22535.84,
+"currency": "XOF",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Canada",
+"product_id": "CA-M-0272",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 97.97,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Ghana",
+"product_id": "GH-N-0273",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 322.31,
+"currency": "GHS",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Kenya",
+"product_id": "KE-O-0274",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 173811.82,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-P-0275",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 134498.01,
+"currency": "XOF",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-Q-0276",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 146204.69,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "France",
+"product_id": "FR-R-0277",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 53.96,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-S-0278",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 144672.96,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Kenya",
+"product_id": "KE-T-0279",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 11222.25,
+"currency": "KES",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-U-0280",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 80638.53,
+"currency": "NGN",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Ghana",
+"product_id": "GH-V-0281",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 705.87,
+"currency": "GHS",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0282",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 5294.73,
+"currency": "KES",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-X-0283",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 36.1,
+"currency": "GBP",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-Y-0284",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 527.0,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Z-0285",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 90.26,
+"currency": "EUR",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-A-0286",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 33.76,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United States",
+"product_id": "US-B-0287",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 27.52,
+"currency": "USD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United States",
+"product_id": "US-C-0288",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 50.35,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-D-0289",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 190.65,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Ghana",
+"product_id": "GH-E-0290",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 600.53,
+"currency": "GHS",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-F-0291",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 32.72,
+"currency": "GBP",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Kenya",
+"product_id": "KE-G-0292",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 25115.3,
+"currency": "KES",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-H-0293",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 36.63,
+"currency": "GBP",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-I-0294",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 44507.06,
+"currency": "NGN",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Ghana",
+"product_id": "GH-J-0295",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 6444.55,
+"currency": "GHS",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-K-0296",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 1406.87,
+"currency": "ZAR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Ghana",
+"product_id": "GH-L-0297",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 2669.05,
+"currency": "GHS",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-M-0298",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1247.15,
+"currency": "USD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-N-0299",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 22.84,
+"currency": "GBP",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-O-0300",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1822.0,
+"currency": "ZAR",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Canada",
+"product_id": "CA-P-0301",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 105.34,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0302",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 287.2,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-R-0303",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 154.04,
+"currency": "GBP",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "South Africa",
+"product_id": "SA-S-0304",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 847.86,
+"currency": "ZAR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-T-0305",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 22.73,
+"currency": "GBP",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "France",
+"product_id": "FR-U-0306",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 33.86,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Canada",
+"product_id": "CA-V-0307",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1835.55,
+"currency": "CAD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "South Africa",
+"product_id": "SA-W-0308",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1728.19,
+"currency": "ZAR",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "France",
+"product_id": "FR-X-0309",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 75.15,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Kenya",
+"product_id": "KE-Y-0310",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 6409.73,
+"currency": "KES",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Z-0311",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 49.91,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Germany",
+"product_id": "GE-A-0312",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 175.6,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-B-0313",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 3545.43,
+"currency": "KES",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-C-0314",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 87.53,
+"currency": "EUR",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-D-0315",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 18380.25,
+"currency": "XOF",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-E-0316",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1234.07,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Canada",
+"product_id": "CA-F-0317",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 98.29,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Germany",
+"product_id": "GE-G-0318",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1185.22,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Ghana",
+"product_id": "GH-H-0319",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 5942.49,
+"currency": "GHS",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-I-0320",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 36.84,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-J-0321",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 25.71,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-K-0322",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 36.42,
+"currency": "GBP",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Kenya",
+"product_id": "KE-L-0323",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 6225.1,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-M-0324",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 39.49,
+"currency": "GBP",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Canada",
+"product_id": "CA-N-0325",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 137.36,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United States",
+"product_id": "US-O-0326",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 52.22,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-P-0327",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 54328.5,
+"currency": "XOF",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Q-0328",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 63960.1,
+"currency": "NGN",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-R-0329",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 24.51,
+"currency": "GBP",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Ghana",
+"product_id": "GH-S-0330",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 453.87,
+"currency": "GHS",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Germany",
+"product_id": "GE-T-0331",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 445.81,
+"currency": "EUR",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-U-0332",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 21.45,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "South Africa",
+"product_id": "SA-V-0333",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 782.79,
+"currency": "ZAR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Germany",
+"product_id": "GE-W-0334",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 33.96,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-X-0335",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 41987.74,
+"currency": "NGN",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Y-0336",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 675126.83,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-Z-0337",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 358.48,
+"currency": "GBP",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Canada",
+"product_id": "CA-A-0338",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 64.23,
+"currency": "CAD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-B-0339",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 40181.24,
+"currency": "NGN",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Kenya",
+"product_id": "KE-C-0340",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 10504.13,
+"currency": "KES",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-D-0341",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 43874.43,
+"currency": "NGN",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "France",
+"product_id": "FR-E-0342",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 90.56,
+"currency": "EUR",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United States",
+"product_id": "US-F-0343",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 93.08,
+"currency": "USD",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "United States",
+"product_id": "US-G-0344",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 76.14,
+"currency": "USD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-H-0345",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 27.16,
+"currency": "USD",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "France",
+"product_id": "FR-I-0346",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 43.13,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-J-0347",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 1070.92,
+"currency": "ZAR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "United States",
+"product_id": "US-K-0348",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 55.46,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Germany",
+"product_id": "GE-L-0349",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 40.24,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United States",
+"product_id": "US-M-0350",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 54.88,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Kenya",
+"product_id": "KE-N-0351",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 10100.5,
+"currency": "KES",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "France",
+"product_id": "FR-O-0352",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 35.95,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Ghana",
+"product_id": "GH-P-0353",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 631.09,
+"currency": "GHS",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Germany",
+"product_id": "GE-Q-0354",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 39.36,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-R-0355",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 49193.23,
+"currency": "NGN",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-S-0356",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 781085.61,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-T-0357",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 24.39,
+"currency": "EUR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-U-0358",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 19.5,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "France",
+"product_id": "FR-V-0359",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 188.16,
+"currency": "EUR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-W-0360",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 38.85,
+"currency": "USD",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "France",
+"product_id": "FR-X-0361",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 32.28,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "United States",
+"product_id": "US-Y-0362",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 51.24,
+"currency": "USD",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Canada",
+"product_id": "CA-Z-0363",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 64.76,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-A-0364",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 735.88,
+"currency": "ZAR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United States",
+"product_id": "US-B-0365",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 29.82,
+"currency": "USD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-C-0366",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 24.1,
+"currency": "EUR",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Germany",
+"product_id": "GE-D-0367",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 433.43,
+"currency": "EUR",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-E-0368",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 42.44,
+"currency": "GBP",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "South Africa",
+"product_id": "SA-F-0369",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 723.14,
+"currency": "ZAR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United States",
+"product_id": "US-G-0370",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 55.12,
+"currency": "USD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-H-0371",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1216.61,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Canada",
+"product_id": "CA-I-0372",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 102.97,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "France",
+"product_id": "FR-J-0373",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 35.59,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "United States",
+"product_id": "US-K-0374",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 195.66,
+"currency": "USD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-L-0375",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 54.11,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-M-0376",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 31.46,
+"currency": "EUR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-N-0377",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 44066.19,
+"currency": "XOF",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-O-0378",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 59.16,
+"currency": "USD",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-P-0379",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 47.31,
+"currency": "GBP",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Q-0380",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 48409.72,
+"currency": "NGN",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-R-0381",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3993.82,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-S-0382",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 27.39,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Canada",
+"product_id": "CA-T-0383",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 37.6,
+"currency": "CAD",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-U-0384",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 567.72,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Kenya",
+"product_id": "KE-V-0385",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 5900.36,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "South Africa",
+"product_id": "SA-W-0386",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3872.49,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-X-0387",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 46383.14,
+"currency": "NGN",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Y-0388",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 335842.27,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-Z-0389",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 54937.36,
+"currency": "NGN",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-A-0390",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 747764.53,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Canada",
+"product_id": "CA-B-0391",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 43.18,
+"currency": "CAD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-C-0392",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 22426.21,
+"currency": "XOF",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "South Africa",
+"product_id": "SA-D-0393",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 1068.13,
+"currency": "ZAR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Ghana",
+"product_id": "GH-E-0394",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 520.32,
+"currency": "GHS",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-F-0395",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 169998.39,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "France",
+"product_id": "FR-G-0396",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 43.7,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United States",
+"product_id": "US-H-0397",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 203.59,
+"currency": "USD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-I-0398",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 42.87,
+"currency": "USD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Canada",
+"product_id": "CA-J-0399",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 280.04,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-K-0400",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 5829.01,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-L-0401",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 35.98,
+"currency": "GBP",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-M-0402",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 28.77,
+"currency": "GBP",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-N-0403",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 761377.13,
+"currency": "NGN",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-O-0404",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 49.76,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-P-0405",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 45.83,
+"currency": "GBP",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Q-0406",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 33.6,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-R-0407",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 54015.69,
+"currency": "NGN",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Ghana",
+"product_id": "GH-S-0408",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 664.82,
+"currency": "GHS",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "South Africa",
+"product_id": "SA-T-0409",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1709.41,
+"currency": "ZAR",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-U-0410",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1833716.1,
+"currency": "NGN",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Kenya",
+"product_id": "KE-V-0411",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 5459.11,
+"currency": "KES",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0412",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 5902.39,
+"currency": "KES",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "South Africa",
+"product_id": "SA-X-0413",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 1323.15,
+"currency": "ZAR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "Canada",
+"product_id": "CA-Y-0414",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 697.8,
+"currency": "CAD",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-Z-0415",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 71.34,
+"currency": "EUR",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "South Africa",
+"product_id": "SA-A-0416",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 3904.99,
+"currency": "ZAR",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-B-0417",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 27.75,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-C-0418",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 22.06,
+"currency": "GBP",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Germany",
+"product_id": "GE-D-0419",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 26.8,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0420",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 20640.37,
+"currency": "XOF",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "South Africa",
+"product_id": "SA-F-0421",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 528.09,
+"currency": "ZAR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United States",
+"product_id": "US-G-0422",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1191.6,
+"currency": "USD",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Germany",
+"product_id": "GE-H-0423",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 46.49,
+"currency": "EUR",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-I-0424",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 24.31,
+"currency": "GBP",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-J-0425",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 20000.22,
+"currency": "XOF",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Canada",
+"product_id": "CA-K-0426",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 65.27,
+"currency": "CAD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Canada",
+"product_id": "CA-L-0427",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 43.85,
+"currency": "CAD",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Ghana",
+"product_id": "GH-M-0428",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 354.63,
+"currency": "GHS",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Canada",
+"product_id": "CA-N-0429",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 266.46,
+"currency": "CAD",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-O-0430",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 772431.35,
+"currency": "XOF",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-P-0431",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 46.03,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0432",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 109.77,
+"currency": "CAD",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "France",
+"product_id": "FR-R-0433",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 48.74,
+"currency": "EUR",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-S-0434",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 273719.39,
+"currency": "XOF",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-T-0435",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 38.57,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Kenya",
+"product_id": "KE-U-0436",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 169391.61,
+"currency": "KES",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-V-0437",
+"category": "Computing",
+"item_name": "Mechanical Keyboard",
+"price_local": 48082.68,
+"currency": "XOF",
+"technical_specs": "Cherry MX, RGB, wired, UK layout",
+"searchable_text": "Mechanical Keyboard Cherry MX, RGB, wired, UK layout"
+},
+{
+"country": "United States",
+"product_id": "US-W-0438",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 29.75,
+"currency": "USD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "France",
+"product_id": "FR-X-0439",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1068.73,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Ghana",
+"product_id": "GH-Y-0440",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 1346.13,
+"currency": "GHS",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Germany",
+"product_id": "GE-Z-0441",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 1053.64,
+"currency": "EUR",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-A-0442",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 64254.46,
+"currency": "NGN",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Kenya",
+"product_id": "KE-B-0443",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 11883.85,
+"currency": "KES",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-C-0444",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 22677.96,
+"currency": "XOF",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-D-0445",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 16436.49,
+"currency": "XOF",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0446",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 64649.84,
+"currency": "XOF",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-F-0447",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 62646.91,
+"currency": "XOF",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Canada",
+"product_id": "CA-G-0448",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 134.28,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Germany",
+"product_id": "GE-H-0449",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 56.03,
+"currency": "EUR",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-I-0450",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 22.26,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-J-0451",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 89284.33,
+"currency": "NGN",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Ghana",
+"product_id": "GH-K-0452",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 500.86,
+"currency": "GHS",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-L-0453",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 21.65,
+"currency": "GBP",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Ghana",
+"product_id": "GH-M-0454",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 2831.99,
+"currency": "GHS",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-N-0455",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 145940.96,
+"currency": "NGN",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Canada",
+"product_id": "CA-O-0456",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 57.66,
+"currency": "CAD",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-P-0457",
+"category": "Solar & Power",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 735959.36,
+"currency": "XOF",
+"technical_specs": "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"
+},
+{
+"country": "South Africa",
+"product_id": "SA-Q-0458",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 601.74,
+"currency": "ZAR",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Kenya",
+"product_id": "KE-R-0459",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 6415.5,
+"currency": "KES",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-S-0460",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 25697.85,
+"currency": "XOF",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "France",
+"product_id": "FR-T-0461",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 26.75,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-U-0462",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 65475.36,
+"currency": "NGN",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-V-0463",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 179.71,
+"currency": "GBP",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "Kenya",
+"product_id": "KE-W-0464",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 5926.81,
+"currency": "KES",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-X-0465",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 44256.68,
+"currency": "NGN",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-Y-0466",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 40.8,
+"currency": "GBP",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Germany",
+"product_id": "GE-Z-0467",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 40.05,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-A-0468",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 30.24,
+"currency": "EUR",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Nigeria",
+"product_id": "NI-B-0469",
+"category": "Computing",
+"item_name": "Tablet 10\"",
+"price_local": 302258.93,
+"currency": "NGN",
+"technical_specs": "128GB, 10.1\" FHD, 4GB RAM, WiFi",
+"searchable_text": "Tablet 10\" 128GB, 10.1\" FHD, 4GB RAM, WiFi"
+},
+{
+"country": "United States",
+"product_id": "US-C-0470",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 38.75,
+"currency": "USD",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Canada",
+"product_id": "CA-D-0471",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 75.27,
+"currency": "CAD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-E-0472",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 27583.39,
+"currency": "XOF",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Kenya",
+"product_id": "KE-F-0473",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 4640.48,
+"currency": "KES",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "South Africa",
+"product_id": "SA-G-0474",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 509.09,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United States",
+"product_id": "US-H-0475",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 44.44,
+"currency": "USD",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Ghana",
+"product_id": "GH-I-0476",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 300.98,
+"currency": "GHS",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-J-0477",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 60076.93,
+"currency": "XOF",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "Ghana",
+"product_id": "GH-K-0478",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 518.19,
+"currency": "GHS",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "Canada",
+"product_id": "CA-L-0479",
+"category": "Audio",
+"item_name": "Wireless Bluetooth Earbuds",
+"price_local": 51.7,
+"currency": "CAD",
+"technical_specs": "ANC, 24h battery, IPX5, USB-C",
+"searchable_text": "Wireless Bluetooth Earbuds ANC, 24h battery, IPX5, USB-C"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-M-0480",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 33302.13,
+"currency": "XOF",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Kenya",
+"product_id": "KE-N-0481",
+"category": "Tv & Display",
+"item_name": "LED TV 55 inch",
+"price_local": 59173.24,
+"currency": "KES",
+"technical_specs": "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",
+"searchable_text": "LED TV 55 inch 55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"
+},
+{
+"country": "Canada",
+"product_id": "CA-O-0482",
+"category": "Wearables",
+"item_name": "Smart Watch Sport",
+"price_local": 121.5,
+"currency": "CAD",
+"technical_specs": "GPS, heart rate, 5ATM, 7-day battery",
+"searchable_text": "Smart Watch Sport GPS, heart rate, 5ATM, 7-day battery"
+},
+{
+"country": "France",
+"product_id": "FR-P-0483",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 27.81,
+"currency": "EUR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Canada",
+"product_id": "CA-Q-0484",
+"category": "Computing",
+"item_name": "Webcam HD Pro",
+"price_local": 77.4,
+"currency": "CAD",
+"technical_specs": "1080p 60fps, built-in mic, auto-focus",
+"searchable_text": "Webcam HD Pro 1080p 60fps, built-in mic, auto-focus"
+},
+{
+"country": "France",
+"product_id": "FR-R-0485",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 41.94,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-S-0486",
+"category": "Kitchen Appliances",
+"item_name": "Coffee Maker Drip",
+"price_local": 37.14,
+"currency": "EUR",
+"technical_specs": "12-cup, programmable, thermal carafe",
+"searchable_text": "Coffee Maker Drip 12-cup, programmable, thermal carafe"
+},
+{
+"country": "France",
+"product_id": "FR-T-0487",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 42.11,
+"currency": "EUR",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "South Africa",
+"product_id": "SA-U-0488",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 530.94,
+"currency": "ZAR",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "Canada",
+"product_id": "CA-V-0489",
+"category": "Lighting",
+"item_name": "LED Desk Lamp",
+"price_local": 41.67,
+"currency": "CAD",
+"technical_specs": "Dimmable, USB port, 5 brightness levels",
+"searchable_text": "LED Desk Lamp Dimmable, USB port, 5 brightness levels"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-W-0490",
+"category": "Audio",
+"item_name": "Bluetooth Speaker",
+"price_local": 41.61,
+"currency": "GBP",
+"technical_specs": "20W, waterproof IPX7, 15h playback",
+"searchable_text": "Bluetooth Speaker 20W, waterproof IPX7, 15h playback"
+},
+{
+"country": "Canada",
+"product_id": "CA-X-0491",
+"category": "Home Appliances",
+"item_name": "Electric Fan Tower",
+"price_local": 80.01,
+"currency": "CAD",
+"technical_specs": "Oscillating, 3 speeds, remote, timer",
+"searchable_text": "Electric Fan Tower Oscillating, 3 speeds, remote, timer"
+},
+{
+"country": "Canada",
+"product_id": "CA-Y-0492",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 34.3,
+"currency": "CAD",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Canada",
+"product_id": "CA-Z-0493",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 139.65,
+"currency": "CAD",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-A-0494",
+"category": "Home Appliances",
+"item_name": "Air Purifier Compact",
+"price_local": 76.88,
+"currency": "GBP",
+"technical_specs": "HEPA H13, 3 speeds, 25m² coverage",
+"searchable_text": "Air Purifier Compact HEPA H13, 3 speeds, 25m² coverage"
+},
+{
+"country": "Ghana",
+"product_id": "GH-B-0495",
+"category": "Kitchen Appliances",
+"item_name": "Smart Kettle Pro",
+"price_local": 587.5,
+"currency": "GHS",
+"technical_specs": "1.7L, 3000W, boil-dry protection, LED display",
+"searchable_text": "Smart Kettle Pro 1.7L, 3000W, boil-dry protection, LED display"
+},
+{
+"country": "Netherlands",
+"product_id": "NE-C-0496",
+"category": "Personal Care",
+"item_name": "Electric Toothbrush",
+"price_local": 39.9,
+"currency": "EUR",
+"technical_specs": "Sonic, 3 modes, 2-week battery",
+"searchable_text": "Electric Toothbrush Sonic, 3 modes, 2-week battery"
+},
+{
+"country": "United States",
+"product_id": "US-D-0497",
+"category": "Wearables",
+"item_name": "Fitness Tracker Band",
+"price_local": 28.38,
+"currency": "USD",
+"technical_specs": "Steps, sleep, HR, 14-day battery",
+"searchable_text": "Fitness Tracker Band Steps, sleep, HR, 14-day battery"
+},
+{
+"country": "Canada",
+"product_id": "CA-E-0498",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 34.43,
+"currency": "CAD",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Côte d'Ivoire",
+"product_id": "CD-F-0499",
+"category": "Power & Batteries",
+"item_name": "Portable Power Bank 20K",
+"price_local": 15718.73,
+"currency": "XOF",
+"technical_specs": "20000mAh, dual USB, 18W PD",
+"searchable_text": "Portable Power Bank 20K 20000mAh, dual USB, 18W PD"
+},
+{
+"country": "Ghana",
+"product_id": "GH-K-001",
+"category": "Kitchen",
+"item_name": "EcoVolt Smart Kettle",
+"price_local": 850.0,
+"currency": "GHS",
+"technical_specs": "1.7L capacity; 220V-240V; Rapid boil feature.",
+"searchable_text": "EcoVolt Smart Kettle 1.7L capacity; 220V-240V; Rapid boil feature."
+},
+{
+"country": "Germany",
+"product_id": "DE-L-441",
+"category": "Electronics",
+"item_name": "Steinberg ProBook X1",
+"price_local": 1299.0,
+"currency": "EUR",
+"technical_specs": "QWERTZ Layout; Intel i7; 32GB RAM; 1TB SSD.",
+"searchable_text": "Steinberg ProBook X1 QWERTZ Layout; Intel i7; 32GB RAM; 1TB SSD."
+},
+{
+"country": "South Africa",
+"product_id": "ZA-S-900",
+"category": "Energy",
+"item_name": "Solar Inverter TS-9000-X",
+"price_local": 15000.0,
+"currency": "ZAR",
+"technical_specs": "5kW capacity; Pure Sine Wave; IP65 Rated.",
+"searchable_text": "Solar Inverter TS-9000-X 5kW capacity; Pure Sine Wave; IP65 Rated."
+},
+{
+"country": "United Kingdom",
+"product_id": "UK-W-202",
+"category": "Policy",
+"item_name": "Warranty Master Doc",
+"price_local": 0.0,
+"currency": "GBP",
+"technical_specs": "Standard 1-year coverage. EU/UK: 2-year mandatory law.",
+"searchable_text": "Warranty Master Doc Standard 1-year coverage. EU/UK: 2-year mandatory law."
+},
+{
+"country": "Ghana",
+"product_id": "GH-M-005",
+"category": "Kitchen",
+"item_name": "Turbo-Blend 500",
+"price_local": 450.0,
+"currency": "GHS",
+"technical_specs": "500W motor; Stainless blades; Pulse mode.",
+"searchable_text": "Turbo-Blend 500 500W motor; Stainless blades; Pulse mode."
+},
+{
+"country": "Netherlands",
+"product_id": "NL-L-5042",
+"category": "Electronics",
+"item_name": "Pro Audio Monitor Speaker",
+"price_local": 299.0,
+"currency": "EUR",
+"technical_specs": "5-inch woofer; 1-inch tweeter; 50W; Studio reference.",
+"searchable_text": "Pro Audio Monitor Speaker 5-inch woofer; 1-inch tweeter; 50W; Studio reference."
+},
+{
+"country": "Netherlands",
+"product_id": "NL-W-301",
+"category": "Policy",
+"item_name": "Warranty Master Doc (Netherlands)",
+"price_local": 0.0,
+"currency": "EUR",
+"technical_specs": "Standard 2-year warranty for electronics in EU/Netherlands. Consumer law applies. Extended warranty available.",
+"searchable_text": "Warranty Master Doc (Netherlands) Standard 2-year warranty for electronics in EU/Netherlands. Consumer law applies. Extended warranty available."
+}
+]

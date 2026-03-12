@@ -1,0 +1,501 @@
+Product_ID,Country,Category,Item_Name,Price_Local,Currency,Technical_Specs,Internal_Notes
+CA-A-0000,Canada,Audio,Wireless Bluetooth Earbuds,45.46,CAD,"ANC, 24h battery, IPX5, USB-C",Target margin 18% | Stock in WH3 Berlin | Pacific Imports Inc
+CA-B-0001,Canada,Kitchen Appliances,Smart Kettle Pro,65.37,CAD,"1.7L, 3000W, boil-dry protection, LED display",Margin 22% | Warehouse A-12 | Acme Electronics Ltd
+NE-C-0002,Netherlands,TV & Display,LED TV 55 inch,439.77,EUR,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Backorder until 02/15 | Promo margin 12% | Nordic Wholesale
+US-D-0003,United States,Computing,Webcam HD Pro,61.15,USD,"1080p 60fps, built-in mic, auto-focus",Acme Electronics Ltd | Backorder until 02/15 | Target margin 18%
+CD-E-0004,Côte d'Ivoire,Wearables,Smart Watch Sport,60953.04,XOF,"GPS, heart rate, 5ATM, 7-day battery",Warehouse A-12 | Pacific Imports Inc | Margin 22%
+GE-F-0005,Germany,Kitchen Appliances,Coffee Maker Drip,37.43,EUR,"12-cup, programmable, thermal carafe",Low stock alert | VIP margin 25% | Acme Electronics Ltd
+NI-G-0006,Nigeria,Personal Care,Electric Toothbrush,72643.85,NGN,"Sonic, 3 modes, 2-week battery",Bulk discount applies 15% | Low stock alert | Africa Direct Trading
+GH-H-0007,Ghana,Computing,Mechanical Keyboard,1035.58,GHS,"Cherry MX, RGB, wired, UK layout",Acme Electronics Ltd | Warehouse A-12 | Target margin 18%
+FR-I-0008,France,Kitchen Appliances,Coffee Maker Drip,34.35,EUR,"12-cup, programmable, thermal carafe",Target margin 18% | Pacific Imports Inc | Fulfilled from NL depot
+US-J-0009,United States,Power & Batteries,Portable Power Bank 20K,26.42,USD,"20000mAh, dual USB, 18W PD",Global Sourcing Co | Backorder until 02/15 | Target margin 18%
+CA-K-0010,Canada,Computing,Mechanical Keyboard,110.87,CAD,"Cherry MX, RGB, wired, UK layout",Acme Electronics Ltd | Warehouse A-12 | Target margin 18%
+KE-L-0011,Kenya,Kitchen Appliances,Smart Kettle Pro,5715.05,KES,"1.7L, 3000W, boil-dry protection, LED display",Africa Direct Trading | Bulk discount applies 15% | Stock in WH3 Berlin
+UK-M-0012,United Kingdom,Wearables,Fitness Tracker Band,22.42,GBP,"Steps, sleep, HR, 14-day battery",Global Sourcing Co | Target margin 18% | Low stock alert
+US-N-0013,United States,Computing,"Tablet 10""",224.78,USD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Stock in WH3 Berlin | Bulk discount applies 15% | EuroTech Suppliers
+NI-O-0014,Nigeria,Solar & Power,Solar Inverter TS-9000-X,2087330.28,NGN,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Target margin 18% | Global Sourcing Co | Backorder until 02/15
+UK-P-0015,United Kingdom,Audio,Bluetooth Speaker,40.54,GBP,"20W, waterproof IPX7, 15h playback",Promo margin 12% | EuroTech Suppliers | Fulfilled from NL depot
+CA-Q-0016,Canada,Audio,Wireless Bluetooth Earbuds,51.71,CAD,"ANC, 24h battery, IPX5, USB-C",Fulfilled from NL depot | Bulk discount applies 15% | Africa Direct Trading
+UK-R-0017,United Kingdom,Power & Batteries,Portable Power Bank 20K,20.55,GBP,"20000mAh, dual USB, 18W PD",Bulk discount applies 15% | Low stock alert | Nordic Wholesale
+CA-S-0018,Canada,Personal Care,Electric Toothbrush,63.88,CAD,"Sonic, 3 modes, 2-week battery",Stock in WH3 Berlin | Promo margin 12% | Africa Direct Trading
+CD-T-0019,Côte d'Ivoire,TV & Display,LED TV 55 inch,288843.01,XOF,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",EuroTech Suppliers | Warehouse A-12 | Margin 22%
+SA-U-0020,South Africa,Solar & Power,Solar Inverter TS-9000-X,21560.57,ZAR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Africa Direct Trading | Margin 22% | Warehouse A-12
+NI-V-0021,Nigeria,Lighting,LED Desk Lamp,42344.44,NGN,"Dimmable, USB port, 5 brightness levels",EuroTech Suppliers | Stock in WH3 Berlin | Promo margin 12%
+SA-W-0022,South Africa,Wearables,Smart Watch Sport,1750.33,ZAR,"GPS, heart rate, 5ATM, 7-day battery",EuroTech Suppliers | Bulk discount applies 15% | Backorder until 02/15
+NI-X-0023,Nigeria,Computing,Mechanical Keyboard,115661.71,NGN,"Cherry MX, RGB, wired, UK layout",Margin 22% | Pacific Imports Inc | Low stock alert
+US-Y-0024,United States,Computing,Mechanical Keyboard,71.36,USD,"Cherry MX, RGB, wired, UK layout",Margin 22% | Stock in WH3 Berlin | Nordic Wholesale
+GE-Z-0025,Germany,Kitchen Appliances,Smart Kettle Pro,43.59,EUR,"1.7L, 3000W, boil-dry protection, LED display",VIP margin 25% | Pacific Imports Inc | Stock in WH3 Berlin
+US-A-0026,United States,Home Appliances,Electric Fan Tower,51.93,USD,"Oscillating, 3 speeds, remote, timer",VIP margin 25% | Stock in WH3 Berlin | EuroTech Suppliers
+CA-B-0027,Canada,Computing,"Tablet 10""",276.29,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",VIP margin 25% | EuroTech Suppliers | Warehouse A-12
+GH-C-0028,Ghana,Audio,Bluetooth Speaker,657.39,GHS,"20W, waterproof IPX7, 15h playback",Stock in WH3 Berlin | Target margin 18% | Acme Electronics Ltd
+CD-D-0029,Côte d'Ivoire,Computing,"Tablet 10""",117811.69,XOF,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Warehouse A-12 | EuroTech Suppliers | Target margin 18%
+GH-E-0030,Ghana,TV & Display,LED TV 55 inch,6433.87,GHS,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Global Sourcing Co | Backorder until 02/15 | Target margin 18%
+SA-F-0031,South Africa,Audio,Bluetooth Speaker,976.74,ZAR,"20W, waterproof IPX7, 15h playback",Global Sourcing Co | Warehouse A-12 | VIP margin 25%
+FR-G-0032,France,Personal Care,Electric Toothbrush,39.98,EUR,"Sonic, 3 modes, 2-week battery",Promo margin 12% | Backorder until 02/15 | Nordic Wholesale
+KE-H-0033,Kenya,Wearables,Smart Watch Sport,13029.51,KES,"GPS, heart rate, 5ATM, 7-day battery",Africa Direct Trading | Promo margin 12% | Warehouse A-12
+GH-I-0034,Ghana,Solar & Power,Solar Inverter TS-9000-X,16002.53,GHS,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Promo margin 12% | Stock in WH3 Berlin | Africa Direct Trading
+CD-J-0035,Côte d'Ivoire,Kitchen Appliances,Smart Kettle Pro,28863.19,XOF,"1.7L, 3000W, boil-dry protection, LED display",Target margin 18% | Backorder until 02/15 | Nordic Wholesale
+US-K-0036,United States,Solar & Power,Solar Inverter TS-9000-X,1288.65,USD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",EuroTech Suppliers | Promo margin 12% | Low stock alert
+KE-L-0037,Kenya,Wearables,Smart Watch Sport,12348.3,KES,"GPS, heart rate, 5ATM, 7-day battery",Fulfilled from NL depot | Pacific Imports Inc | Target margin 18%
+CA-M-0038,Canada,Personal Care,Electric Toothbrush,59.49,CAD,"Sonic, 3 modes, 2-week battery",Margin 22% | Acme Electronics Ltd | Backorder until 02/15
+NI-N-0039,Nigeria,Wearables,Smart Watch Sport,145009.86,NGN,"GPS, heart rate, 5ATM, 7-day battery",Warehouse A-12 | Bulk discount applies 15% | Global Sourcing Co
+KE-O-0040,Kenya,Power & Batteries,Portable Power Bank 20K,3320.44,KES,"20000mAh, dual USB, 18W PD",Bulk discount applies 15% | Africa Direct Trading | Low stock alert
+CA-P-0041,Canada,Personal Care,Electric Toothbrush,64.91,CAD,"Sonic, 3 modes, 2-week battery",Target margin 18% | Fulfilled from NL depot | Acme Electronics Ltd
+NE-Q-0042,Netherlands,Lighting,LED Desk Lamp,25.88,EUR,"Dimmable, USB port, 5 brightness levels",Fulfilled from NL depot | Target margin 18% | Africa Direct Trading
+NE-R-0043,Netherlands,Home Appliances,Electric Fan Tower,47.85,EUR,"Oscillating, 3 speeds, remote, timer",Backorder until 02/15 | Acme Electronics Ltd | Margin 22%
+GH-S-0044,Ghana,Home Appliances,Air Purifier Compact,1311.27,GHS,"HEPA H13, 3 speeds, 25m² coverage",Nordic Wholesale | Bulk discount applies 15% | Stock in WH3 Berlin
+NE-T-0045,Netherlands,Computing,"Tablet 10""",194.46,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Margin 22% | Acme Electronics Ltd | Stock in WH3 Berlin
+GE-U-0046,Germany,Lighting,LED Desk Lamp,26.69,EUR,"Dimmable, USB port, 5 brightness levels",Fulfilled from NL depot | Bulk discount applies 15% | Acme Electronics Ltd
+SA-V-0047,South Africa,Computing,Mechanical Keyboard,1462.57,ZAR,"Cherry MX, RGB, wired, UK layout",Promo margin 12% | Pacific Imports Inc | Backorder until 02/15
+SA-W-0048,South Africa,Power & Batteries,Portable Power Bank 20K,515.36,ZAR,"20000mAh, dual USB, 18W PD",Warehouse A-12 | VIP margin 25% | Global Sourcing Co
+UK-X-0049,United Kingdom,Computing,Mechanical Keyboard,59.45,GBP,"Cherry MX, RGB, wired, UK layout",Backorder until 02/15 | Margin 22% | Nordic Wholesale
+SA-Y-0050,South Africa,Wearables,Smart Watch Sport,1783.53,ZAR,"GPS, heart rate, 5ATM, 7-day battery",Bulk discount applies 15% | Fulfilled from NL depot | EuroTech Suppliers
+GH-Z-0051,Ghana,Wearables,Smart Watch Sport,1145.53,GHS,"GPS, heart rate, 5ATM, 7-day battery",Pacific Imports Inc | Fulfilled from NL depot | Margin 22%
+CA-A-0052,Canada,Home Appliances,Air Purifier Compact,147.01,CAD,"HEPA H13, 3 speeds, 25m² coverage",Acme Electronics Ltd | Bulk discount applies 15% | Stock in WH3 Berlin
+GH-B-0053,Ghana,Audio,Wireless Bluetooth Earbuds,467.82,GHS,"ANC, 24h battery, IPX5, USB-C",Bulk discount applies 15% | Pacific Imports Inc | Backorder until 02/15
+UK-C-0054,United Kingdom,Wearables,Smart Watch Sport,70.38,GBP,"GPS, heart rate, 5ATM, 7-day battery",VIP margin 25% | Nordic Wholesale | Warehouse A-12
+GE-D-0055,Germany,Computing,"Tablet 10""",176.49,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Low stock alert | Nordic Wholesale | Bulk discount applies 15%
+KE-E-0056,Kenya,Personal Care,Electric Toothbrush,5824.24,KES,"Sonic, 3 modes, 2-week battery",VIP margin 25% | Pacific Imports Inc | Fulfilled from NL depot
+SA-F-0057,South Africa,Computing,"Tablet 10""",3879.26,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",EuroTech Suppliers | Target margin 18% | Low stock alert
+UK-G-0058,United Kingdom,TV & Display,LED TV 55 inch,359.33,GBP,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Global Sourcing Co | VIP margin 25% | Low stock alert
+FR-H-0059,France,Wearables,Fitness Tracker Band,27.71,EUR,"Steps, sleep, HR, 14-day battery",Promo margin 12% | Global Sourcing Co | Backorder until 02/15
+CA-I-0060,Canada,Kitchen Appliances,Smart Kettle Pro,61.61,CAD,"1.7L, 3000W, boil-dry protection, LED display",Promo margin 12% | Fulfilled from NL depot | Nordic Wholesale
+CA-J-0061,Canada,Personal Care,Electric Toothbrush,56.83,CAD,"Sonic, 3 modes, 2-week battery",Target margin 18% | Warehouse A-12 | Global Sourcing Co
+FR-K-0062,France,Kitchen Appliances,Smart Kettle Pro,43.1,EUR,"1.7L, 3000W, boil-dry protection, LED display",Nordic Wholesale | Promo margin 12% | Stock in WH3 Berlin
+FR-L-0063,France,Audio,Bluetooth Speaker,44.11,EUR,"20W, waterproof IPX7, 15h playback",Warehouse A-12 | Nordic Wholesale | Margin 22%
+CD-M-0064,Côte d'Ivoire,Wearables,Fitness Tracker Band,16704.76,XOF,"Steps, sleep, HR, 14-day battery",Backorder until 02/15 | Margin 22% | Global Sourcing Co
+CA-N-0065,Canada,Home Appliances,Air Purifier Compact,147.29,CAD,"HEPA H13, 3 speeds, 25m² coverage",EuroTech Suppliers | Low stock alert | Promo margin 12%
+CD-O-0066,Côte d'Ivoire,Home Appliances,Electric Fan Tower,32448.44,XOF,"Oscillating, 3 speeds, remote, timer",Low stock alert | Global Sourcing Co | Bulk discount applies 15%
+KE-P-0067,Kenya,Wearables,Fitness Tracker Band,3583.92,KES,"Steps, sleep, HR, 14-day battery",Pacific Imports Inc | Fulfilled from NL depot | Target margin 18%
+NE-Q-0068,Netherlands,Kitchen Appliances,Smart Kettle Pro,40.48,EUR,"1.7L, 3000W, boil-dry protection, LED display",VIP margin 25% | Global Sourcing Co | Stock in WH3 Berlin
+NI-R-0069,Nigeria,Computing,"Tablet 10""",318172.31,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",VIP margin 25% | Backorder until 02/15 | Africa Direct Trading
+UK-S-0070,United Kingdom,Audio,Bluetooth Speaker,42.89,GBP,"20W, waterproof IPX7, 15h playback",Africa Direct Trading | Low stock alert | Margin 22%
+GH-T-0071,Ghana,Kitchen Appliances,Coffee Maker Drip,479.62,GHS,"12-cup, programmable, thermal carafe",VIP margin 25% | EuroTech Suppliers | Low stock alert
+FR-U-0072,France,Computing,Mechanical Keyboard,69.32,EUR,"Cherry MX, RGB, wired, UK layout",EuroTech Suppliers | Backorder until 02/15 | Margin 22%
+CD-V-0073,Côte d'Ivoire,Wearables,Fitness Tracker Band,19730.0,XOF,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Africa Direct Trading | Promo margin 12%
+NI-W-0074,Nigeria,Computing,"Tablet 10""",301398.8,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",EuroTech Suppliers | Warehouse A-12 | Target margin 18%
+GE-X-0075,Germany,Wearables,Smart Watch Sport,85.23,EUR,"GPS, heart rate, 5ATM, 7-day battery",Pacific Imports Inc | Fulfilled from NL depot | VIP margin 25%
+NI-Y-0076,Nigeria,Home Appliances,Electric Fan Tower,76882.46,NGN,"Oscillating, 3 speeds, remote, timer",Margin 22% | Fulfilled from NL depot | Africa Direct Trading
+CA-Z-0077,Canada,Solar & Power,Solar Inverter TS-9000-X,1796.58,CAD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Target margin 18% | Global Sourcing Co | Warehouse A-12
+SA-A-0078,South Africa,Lighting,LED Desk Lamp,526.53,ZAR,"Dimmable, USB port, 5 brightness levels",Acme Electronics Ltd | Stock in WH3 Berlin | Promo margin 12%
+GE-B-0079,Germany,Power & Batteries,Portable Power Bank 20K,24.64,EUR,"20000mAh, dual USB, 18W PD",Stock in WH3 Berlin | Nordic Wholesale | Margin 22%
+US-C-0080,United States,TV & Display,LED TV 55 inch,511.1,USD,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",VIP margin 25% | Africa Direct Trading | Backorder until 02/15
+NI-D-0081,Nigeria,Computing,Mechanical Keyboard,112806.71,NGN,"Cherry MX, RGB, wired, UK layout",Promo margin 12% | Pacific Imports Inc | Warehouse A-12
+GE-E-0082,Germany,Computing,"Tablet 10""",198.15,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Fulfilled from NL depot | Promo margin 12% | Acme Electronics Ltd
+FR-F-0083,France,Audio,Wireless Bluetooth Earbuds,33.38,EUR,"ANC, 24h battery, IPX5, USB-C",Stock in WH3 Berlin | Pacific Imports Inc | VIP margin 25%
+NE-G-0084,Netherlands,Computing,Webcam HD Pro,54.3,EUR,"1080p 60fps, built-in mic, auto-focus",Africa Direct Trading | Backorder until 02/15 | VIP margin 25%
+GE-H-0085,Germany,Computing,Mechanical Keyboard,77.01,EUR,"Cherry MX, RGB, wired, UK layout",Backorder until 02/15 | Bulk discount applies 15% | Acme Electronics Ltd
+US-I-0086,United States,Audio,Bluetooth Speaker,48.83,USD,"20W, waterproof IPX7, 15h playback",Stock in WH3 Berlin | EuroTech Suppliers | Bulk discount applies 15%
+GE-J-0087,Germany,Computing,Webcam HD Pro,51.51,EUR,"1080p 60fps, built-in mic, auto-focus",Bulk discount applies 15% | Low stock alert | Africa Direct Trading
+NI-K-0088,Nigeria,Computing,Mechanical Keyboard,127179.24,NGN,"Cherry MX, RGB, wired, UK layout",EuroTech Suppliers | Promo margin 12% | Stock in WH3 Berlin
+CA-L-0089,Canada,Home Appliances,Electric Fan Tower,73.52,CAD,"Oscillating, 3 speeds, remote, timer",Fulfilled from NL depot | Margin 22% | Acme Electronics Ltd
+SA-M-0090,South Africa,Personal Care,Electric Toothbrush,818.59,ZAR,"Sonic, 3 modes, 2-week battery",Pacific Imports Inc | VIP margin 25% | Low stock alert
+UK-N-0091,United Kingdom,Home Appliances,Air Purifier Compact,76.58,GBP,"HEPA H13, 3 speeds, 25m² coverage",Fulfilled from NL depot | EuroTech Suppliers | Bulk discount applies 15%
+NI-O-0092,Nigeria,Wearables,Smart Watch Sport,139758.47,NGN,"GPS, heart rate, 5ATM, 7-day battery",Promo margin 12% | Stock in WH3 Berlin | Nordic Wholesale
+FR-P-0093,France,Computing,Webcam HD Pro,55.4,EUR,"1080p 60fps, built-in mic, auto-focus",Promo margin 12% | Fulfilled from NL depot | Africa Direct Trading
+KE-Q-0094,Kenya,Computing,Mechanical Keyboard,9812.89,KES,"Cherry MX, RGB, wired, UK layout",Low stock alert | Margin 22% | Pacific Imports Inc
+GH-R-0095,Ghana,Solar & Power,Solar Inverter TS-9000-X,15910.08,GHS,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Target margin 18% | Backorder until 02/15 | Nordic Wholesale
+US-S-0096,United States,Personal Care,Electric Toothbrush,43.84,USD,"Sonic, 3 modes, 2-week battery",Stock in WH3 Berlin | Bulk discount applies 15% | EuroTech Suppliers
+FR-T-0097,France,Audio,Wireless Bluetooth Earbuds,35.88,EUR,"ANC, 24h battery, IPX5, USB-C",VIP margin 25% | EuroTech Suppliers | Warehouse A-12
+CD-U-0098,Côte d'Ivoire,Lighting,LED Desk Lamp,18685.44,XOF,"Dimmable, USB port, 5 brightness levels",Stock in WH3 Berlin | Margin 22% | Pacific Imports Inc
+US-V-0099,United States,Computing,Mechanical Keyboard,82.89,USD,"Cherry MX, RGB, wired, UK layout",EuroTech Suppliers | Backorder until 02/15 | VIP margin 25%
+KE-W-0100,Kenya,Solar & Power,Solar Inverter TS-9000-X,164647.86,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Margin 22% | Nordic Wholesale | Stock in WH3 Berlin
+KE-X-0101,Kenya,Kitchen Appliances,Smart Kettle Pro,5652.93,KES,"1.7L, 3000W, boil-dry protection, LED display",Promo margin 12% | Warehouse A-12 | Global Sourcing Co
+UK-Y-0102,United Kingdom,Wearables,Fitness Tracker Band,24.92,GBP,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Bulk discount applies 15% | EuroTech Suppliers
+KE-Z-0103,Kenya,Wearables,Fitness Tracker Band,3579.24,KES,"Steps, sleep, HR, 14-day battery",Bulk discount applies 15% | Global Sourcing Co | Low stock alert
+UK-A-0104,United Kingdom,Audio,Wireless Bluetooth Earbuds,29.28,GBP,"ANC, 24h battery, IPX5, USB-C",Target margin 18% | Fulfilled from NL depot | Nordic Wholesale
+GH-B-0105,Ghana,Power & Batteries,Portable Power Bank 20K,346.41,GHS,"20000mAh, dual USB, 18W PD",Fulfilled from NL depot | Africa Direct Trading | Promo margin 12%
+FR-C-0106,France,Personal Care,Electric Toothbrush,42.12,EUR,"Sonic, 3 modes, 2-week battery",Pacific Imports Inc | Low stock alert | Promo margin 12%
+NI-D-0107,Nigeria,Solar & Power,Solar Inverter TS-9000-X,2097865.31,NGN,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Low stock alert | Nordic Wholesale | Bulk discount applies 15%
+NI-E-0108,Nigeria,Computing,Mechanical Keyboard,132801.93,NGN,"Cherry MX, RGB, wired, UK layout",Africa Direct Trading | Promo margin 12% | Warehouse A-12
+US-F-0109,United States,Solar & Power,Solar Inverter TS-9000-X,1323.15,USD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Global Sourcing Co | VIP margin 25% | Low stock alert
+KE-G-0110,Kenya,Power & Batteries,Portable Power Bank 20K,3678.05,KES,"20000mAh, dual USB, 18W PD",EuroTech Suppliers | Warehouse A-12 | VIP margin 25%
+UK-H-0111,United Kingdom,Home Appliances,Air Purifier Compact,76.12,GBP,"HEPA H13, 3 speeds, 25m² coverage",Acme Electronics Ltd | Fulfilled from NL depot | Target margin 18%
+KE-I-0112,Kenya,Audio,Bluetooth Speaker,6836.51,KES,"20W, waterproof IPX7, 15h playback",Backorder until 02/15 | Margin 22% | Africa Direct Trading
+KE-J-0113,Kenya,Home Appliances,Air Purifier Compact,11833.92,KES,"HEPA H13, 3 speeds, 25m² coverage",EuroTech Suppliers | Promo margin 12% | Warehouse A-12
+UK-K-0114,United Kingdom,Solar & Power,Solar Inverter TS-9000-X,936.17,GBP,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Pacific Imports Inc | Promo margin 12% | Backorder until 02/15
+GH-L-0115,Ghana,Wearables,Smart Watch Sport,1116.3,GHS,"GPS, heart rate, 5ATM, 7-day battery",Global Sourcing Co | Bulk discount applies 15% | Backorder until 02/15
+NI-M-0116,Nigeria,TV & Display,LED TV 55 inch,798378.98,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Stock in WH3 Berlin | Africa Direct Trading | Target margin 18%
+NE-N-0117,Netherlands,Computing,"Tablet 10""",177.34,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",VIP margin 25% | Acme Electronics Ltd | Warehouse A-12
+FR-O-0118,France,Personal Care,Electric Toothbrush,40.64,EUR,"Sonic, 3 modes, 2-week battery",Backorder until 02/15 | Pacific Imports Inc | VIP margin 25%
+FR-P-0119,France,Lighting,LED Desk Lamp,26.45,EUR,"Dimmable, USB port, 5 brightness levels",Stock in WH3 Berlin | Promo margin 12% | Africa Direct Trading
+UK-Q-0120,United Kingdom,Home Appliances,Air Purifier Compact,85.32,GBP,"HEPA H13, 3 speeds, 25m² coverage",Africa Direct Trading | Warehouse A-12 | Bulk discount applies 15%
+US-R-0121,United States,Home Appliances,Electric Fan Tower,58.4,USD,"Oscillating, 3 speeds, remote, timer",EuroTech Suppliers | Backorder until 02/15 | Promo margin 12%
+NE-S-0122,Netherlands,Audio,Bluetooth Speaker,45.97,EUR,"20W, waterproof IPX7, 15h playback",Pacific Imports Inc | Target margin 18% | Stock in WH3 Berlin
+SA-T-0123,South Africa,Computing,"Tablet 10""",3434.17,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Backorder until 02/15 | Nordic Wholesale | VIP margin 25%
+FR-U-0124,France,Solar & Power,Solar Inverter TS-9000-X,1076.68,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Warehouse A-12 | Africa Direct Trading | Bulk discount applies 15%
+NE-V-0125,Netherlands,Wearables,Fitness Tracker Band,25.43,EUR,"Steps, sleep, HR, 14-day battery",Stock in WH3 Berlin | VIP margin 25% | Global Sourcing Co
+KE-W-0126,Kenya,Home Appliances,Air Purifier Compact,13067.77,KES,"HEPA H13, 3 speeds, 25m² coverage",EuroTech Suppliers | Margin 22% | Fulfilled from NL depot
+GE-X-0127,Germany,Home Appliances,Electric Fan Tower,53.79,EUR,"Oscillating, 3 speeds, remote, timer",Warehouse A-12 | Promo margin 12% | Acme Electronics Ltd
+SA-Y-0128,South Africa,Kitchen Appliances,Smart Kettle Pro,839.8,ZAR,"1.7L, 3000W, boil-dry protection, LED display",Backorder until 02/15 | Margin 22% | Acme Electronics Ltd
+GH-Z-0129,Ghana,Solar & Power,Solar Inverter TS-9000-X,15223.12,GHS,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Acme Electronics Ltd | Fulfilled from NL depot | Bulk discount applies 15%
+CD-A-0130,Côte d'Ivoire,Computing,Mechanical Keyboard,47530.5,XOF,"Cherry MX, RGB, wired, UK layout",Target margin 18% | Stock in WH3 Berlin | Africa Direct Trading
+US-B-0131,United States,Audio,Bluetooth Speaker,51.55,USD,"20W, waterproof IPX7, 15h playback",VIP margin 25% | Low stock alert | Global Sourcing Co
+FR-C-0132,France,Computing,Webcam HD Pro,52.72,EUR,"1080p 60fps, built-in mic, auto-focus",Backorder until 02/15 | Nordic Wholesale | Margin 22%
+NI-D-0133,Nigeria,Wearables,Fitness Tracker Band,51200.17,NGN,"Steps, sleep, HR, 14-day battery",Africa Direct Trading | Bulk discount applies 15% | Backorder until 02/15
+FR-E-0134,France,Personal Care,Electric Toothbrush,38.25,EUR,"Sonic, 3 modes, 2-week battery",Warehouse A-12 | VIP margin 25% | EuroTech Suppliers
+US-F-0135,United States,Kitchen Appliances,Coffee Maker Drip,40.47,USD,"12-cup, programmable, thermal carafe",Nordic Wholesale | Bulk discount applies 15% | Warehouse A-12
+KE-G-0136,Kenya,TV & Display,LED TV 55 inch,61239.5,KES,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Nordic Wholesale | Margin 22% | Low stock alert
+KE-H-0137,Kenya,Computing,Mechanical Keyboard,10285.56,KES,"Cherry MX, RGB, wired, UK layout",Pacific Imports Inc | Target margin 18% | Stock in WH3 Berlin
+CA-I-0138,Canada,Lighting,LED Desk Lamp,40.96,CAD,"Dimmable, USB port, 5 brightness levels",Fulfilled from NL depot | Nordic Wholesale | Margin 22%
+US-J-0139,United States,Kitchen Appliances,Coffee Maker Drip,41.67,USD,"12-cup, programmable, thermal carafe",Acme Electronics Ltd | Bulk discount applies 15% | Fulfilled from NL depot
+CD-K-0140,Côte d'Ivoire,Wearables,Smart Watch Sport,52141.47,XOF,"GPS, heart rate, 5ATM, 7-day battery",Africa Direct Trading | Bulk discount applies 15% | Low stock alert
+CD-L-0141,Côte d'Ivoire,Computing,Webcam HD Pro,37382.72,XOF,"1080p 60fps, built-in mic, auto-focus",Fulfilled from NL depot | Bulk discount applies 15% | EuroTech Suppliers
+NI-M-0142,Nigeria,Lighting,LED Desk Lamp,47776.03,NGN,"Dimmable, USB port, 5 brightness levels",Low stock alert | Global Sourcing Co | VIP margin 25%
+UK-N-0143,United Kingdom,TV & Display,LED TV 55 inch,356.53,GBP,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Acme Electronics Ltd | VIP margin 25% | Fulfilled from NL depot
+US-O-0144,United States,Audio,Bluetooth Speaker,53.5,USD,"20W, waterproof IPX7, 15h playback",Stock in WH3 Berlin | Pacific Imports Inc | Margin 22%
+US-P-0145,United States,Home Appliances,Air Purifier Compact,107.64,USD,"HEPA H13, 3 speeds, 25m² coverage",Global Sourcing Co | Margin 22% | Backorder until 02/15
+CA-Q-0146,Canada,Computing,"Tablet 10""",263.42,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Fulfilled from NL depot | Acme Electronics Ltd | Margin 22%
+NI-R-0147,Nigeria,Computing,Mechanical Keyboard,131066.28,NGN,"Cherry MX, RGB, wired, UK layout",Global Sourcing Co | Backorder until 02/15 | VIP margin 25%
+US-S-0148,United States,Lighting,LED Desk Lamp,31.56,USD,"Dimmable, USB port, 5 brightness levels",Nordic Wholesale | Margin 22% | Backorder until 02/15
+KE-T-0149,Kenya,Solar & Power,Solar Inverter TS-9000-X,167125.42,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Backorder until 02/15 | VIP margin 25% | Global Sourcing Co
+NI-U-0150,Nigeria,Kitchen Appliances,Coffee Maker Drip,62368.81,NGN,"12-cup, programmable, thermal carafe",Nordic Wholesale | Warehouse A-12 | Bulk discount applies 15%
+SA-V-0151,South Africa,Audio,Wireless Bluetooth Earbuds,718.08,ZAR,"ANC, 24h battery, IPX5, USB-C",Margin 22% | EuroTech Suppliers | Stock in WH3 Berlin
+GH-W-0152,Ghana,Home Appliances,Air Purifier Compact,1185.97,GHS,"HEPA H13, 3 speeds, 25m² coverage",Promo margin 12% | Stock in WH3 Berlin | Global Sourcing Co
+US-X-0153,United States,Wearables,Smart Watch Sport,99.02,USD,"GPS, heart rate, 5ATM, 7-day battery",Bulk discount applies 15% | Global Sourcing Co | Stock in WH3 Berlin
+KE-Y-0154,Kenya,Lighting,LED Desk Lamp,4112.66,KES,"Dimmable, USB port, 5 brightness levels",Bulk discount applies 15% | Stock in WH3 Berlin | Africa Direct Trading
+CD-Z-0155,Côte d'Ivoire,TV & Display,LED TV 55 inch,275845.08,XOF,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Promo margin 12% | Fulfilled from NL depot | Global Sourcing Co
+KE-A-0156,Kenya,Solar & Power,Solar Inverter TS-9000-X,149814.02,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Promo margin 12% | EuroTech Suppliers | Warehouse A-12
+FR-B-0157,France,Wearables,Fitness Tracker Band,29.5,EUR,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Africa Direct Trading | Promo margin 12%
+US-C-0158,United States,Solar & Power,Solar Inverter TS-9000-X,1314.54,USD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Fulfilled from NL depot | Nordic Wholesale | Promo margin 12%
+GH-D-0159,Ghana,Home Appliances,Electric Fan Tower,727.65,GHS,"Oscillating, 3 speeds, remote, timer",EuroTech Suppliers | Margin 22% | Backorder until 02/15
+NI-E-0160,Nigeria,Kitchen Appliances,Smart Kettle Pro,70755.96,NGN,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | Stock in WH3 Berlin | Margin 22%
+UK-F-0161,United Kingdom,Personal Care,Electric Toothbrush,34.53,GBP,"Sonic, 3 modes, 2-week battery",VIP margin 25% | Africa Direct Trading | Warehouse A-12
+CA-G-0162,Canada,Wearables,Smart Watch Sport,125.4,CAD,"GPS, heart rate, 5ATM, 7-day battery",Global Sourcing Co | Fulfilled from NL depot | VIP margin 25%
+UK-H-0163,United Kingdom,Audio,Wireless Bluetooth Earbuds,28.0,GBP,"ANC, 24h battery, IPX5, USB-C",Fulfilled from NL depot | Bulk discount applies 15% | Pacific Imports Inc
+NI-I-0164,Nigeria,Kitchen Appliances,Smart Kettle Pro,77865.72,NGN,"1.7L, 3000W, boil-dry protection, LED display",Acme Electronics Ltd | VIP margin 25% | Warehouse A-12
+CD-J-0165,Côte d'Ivoire,Solar & Power,Solar Inverter TS-9000-X,768450.97,XOF,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Promo margin 12% | Africa Direct Trading | Fulfilled from NL depot
+UK-K-0166,United Kingdom,Kitchen Appliances,Coffee Maker Drip,33.76,GBP,"12-cup, programmable, thermal carafe",EuroTech Suppliers | Margin 22% | Fulfilled from NL depot
+GE-L-0167,Germany,Audio,Wireless Bluetooth Earbuds,34.31,EUR,"ANC, 24h battery, IPX5, USB-C",Target margin 18% | Backorder until 02/15 | Global Sourcing Co
+GE-M-0168,Germany,Kitchen Appliances,Coffee Maker Drip,34.02,EUR,"12-cup, programmable, thermal carafe",Stock in WH3 Berlin | Pacific Imports Inc | Promo margin 12%
+US-N-0169,United States,Computing,Webcam HD Pro,52.57,USD,"1080p 60fps, built-in mic, auto-focus",Fulfilled from NL depot | Pacific Imports Inc | Bulk discount applies 15%
+CD-O-0170,Côte d'Ivoire,Lighting,LED Desk Lamp,17862.84,XOF,"Dimmable, USB port, 5 brightness levels",Margin 22% | EuroTech Suppliers | Stock in WH3 Berlin
+NI-P-0171,Nigeria,Wearables,Smart Watch Sport,141431.7,NGN,"GPS, heart rate, 5ATM, 7-day battery",EuroTech Suppliers | Stock in WH3 Berlin | Bulk discount applies 15%
+GE-Q-0172,Germany,Kitchen Appliances,Smart Kettle Pro,46.64,EUR,"1.7L, 3000W, boil-dry protection, LED display",Target margin 18% | Low stock alert | Global Sourcing Co
+KE-R-0173,Kenya,Wearables,Fitness Tracker Band,4017.82,KES,"Steps, sleep, HR, 14-day battery",EuroTech Suppliers | Backorder until 02/15 | Promo margin 12%
+SA-S-0174,South Africa,Audio,Wireless Bluetooth Earbuds,641.99,ZAR,"ANC, 24h battery, IPX5, USB-C",Acme Electronics Ltd | Low stock alert | Bulk discount applies 15%
+GH-T-0175,Ghana,Computing,Mechanical Keyboard,964.74,GHS,"Cherry MX, RGB, wired, UK layout",Warehouse A-12 | Margin 22% | Africa Direct Trading
+SA-U-0176,South Africa,Lighting,LED Desk Lamp,555.83,ZAR,"Dimmable, USB port, 5 brightness levels",Warehouse A-12 | Bulk discount applies 15% | Pacific Imports Inc
+UK-V-0177,United Kingdom,Power & Batteries,Portable Power Bank 20K,19.27,GBP,"20000mAh, dual USB, 18W PD",Africa Direct Trading | Target margin 18% | Low stock alert
+NI-W-0178,Nigeria,Audio,Bluetooth Speaker,83503.05,NGN,"20W, waterproof IPX7, 15h playback",Warehouse A-12 | Acme Electronics Ltd | VIP margin 25%
+GE-X-0179,Germany,Computing,"Tablet 10""",194.92,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Fulfilled from NL depot | VIP margin 25% | Nordic Wholesale
+GH-Y-0180,Ghana,Home Appliances,Air Purifier Compact,1168.94,GHS,"HEPA H13, 3 speeds, 25m² coverage",Fulfilled from NL depot | VIP margin 25% | Africa Direct Trading
+NI-Z-0181,Nigeria,Computing,Mechanical Keyboard,120566.98,NGN,"Cherry MX, RGB, wired, UK layout",EuroTech Suppliers | Warehouse A-12 | Promo margin 12%
+GE-A-0182,Germany,Computing,Mechanical Keyboard,70.15,EUR,"Cherry MX, RGB, wired, UK layout",Margin 22% | Global Sourcing Co | Low stock alert
+NE-B-0183,Netherlands,Wearables,Smart Watch Sport,92.62,EUR,"GPS, heart rate, 5ATM, 7-day battery",Bulk discount applies 15% | Stock in WH3 Berlin | Pacific Imports Inc
+CD-C-0184,Côte d'Ivoire,Computing,Webcam HD Pro,32651.99,XOF,"1080p 60fps, built-in mic, auto-focus",Warehouse A-12 | Target margin 18% | Africa Direct Trading
+FR-D-0185,France,Wearables,Fitness Tracker Band,28.98,EUR,"Steps, sleep, HR, 14-day battery",Africa Direct Trading | Promo margin 12% | Fulfilled from NL depot
+CD-E-0186,Côte d'Ivoire,Wearables,Fitness Tracker Band,16767.64,XOF,"Steps, sleep, HR, 14-day battery",Bulk discount applies 15% | EuroTech Suppliers | Fulfilled from NL depot
+GE-F-0187,Germany,Kitchen Appliances,Smart Kettle Pro,41.9,EUR,"1.7L, 3000W, boil-dry protection, LED display",EuroTech Suppliers | Warehouse A-12 | Margin 22%
+NI-G-0188,Nigeria,Kitchen Appliances,Smart Kettle Pro,74841.87,NGN,"1.7L, 3000W, boil-dry protection, LED display",VIP margin 25% | Africa Direct Trading | Backorder until 02/15
+FR-H-0189,France,Wearables,Smart Watch Sport,83.05,EUR,"GPS, heart rate, 5ATM, 7-day battery",Stock in WH3 Berlin | Promo margin 12% | EuroTech Suppliers
+NI-I-0190,Nigeria,Home Appliances,Air Purifier Compact,168818.76,NGN,"HEPA H13, 3 speeds, 25m² coverage",Promo margin 12% | Stock in WH3 Berlin | Acme Electronics Ltd
+FR-J-0191,France,Wearables,Fitness Tracker Band,28.14,EUR,"Steps, sleep, HR, 14-day battery",Africa Direct Trading | Fulfilled from NL depot | Target margin 18%
+UK-K-0192,United Kingdom,Computing,"Tablet 10""",173.7,GBP,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Nordic Wholesale | Promo margin 12% | Warehouse A-12
+NI-L-0193,Nigeria,Home Appliances,Air Purifier Compact,142670.7,NGN,"HEPA H13, 3 speeds, 25m² coverage",Fulfilled from NL depot | Nordic Wholesale | VIP margin 25%
+GE-M-0194,Germany,Kitchen Appliances,Smart Kettle Pro,44.16,EUR,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | Bulk discount applies 15% | Fulfilled from NL depot
+CD-N-0195,Côte d'Ivoire,Kitchen Appliances,Smart Kettle Pro,27321.74,XOF,"1.7L, 3000W, boil-dry protection, LED display",Bulk discount applies 15% | EuroTech Suppliers | Stock in WH3 Berlin
+CA-O-0196,Canada,Computing,"Tablet 10""",284.63,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Bulk discount applies 15% | Fulfilled from NL depot | Acme Electronics Ltd
+GE-P-0197,Germany,Home Appliances,Electric Fan Tower,47.29,EUR,"Oscillating, 3 speeds, remote, timer",Warehouse A-12 | Global Sourcing Co | Target margin 18%
+NE-Q-0198,Netherlands,Solar & Power,Solar Inverter TS-9000-X,1194.95,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Low stock alert | Africa Direct Trading | Target margin 18%
+CD-R-0199,Côte d'Ivoire,Power & Batteries,Portable Power Bank 20K,16744.04,XOF,"20000mAh, dual USB, 18W PD",Backorder until 02/15 | Target margin 18% | Africa Direct Trading
+GE-S-0200,Germany,Computing,Mechanical Keyboard,78.93,EUR,"Cherry MX, RGB, wired, UK layout",Bulk discount applies 15% | Backorder until 02/15 | Africa Direct Trading
+KE-T-0201,Kenya,Home Appliances,Electric Fan Tower,7526.57,KES,"Oscillating, 3 speeds, remote, timer",Global Sourcing Co | Low stock alert | Bulk discount applies 15%
+KE-U-0202,Kenya,Audio,Bluetooth Speaker,6454.77,KES,"20W, waterproof IPX7, 15h playback",Target margin 18% | EuroTech Suppliers | Stock in WH3 Berlin
+KE-V-0203,Kenya,Solar & Power,Solar Inverter TS-9000-X,165617.02,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Promo margin 12% | Pacific Imports Inc | Warehouse A-12
+KE-W-0204,Kenya,Kitchen Appliances,Smart Kettle Pro,6351.11,KES,"1.7L, 3000W, boil-dry protection, LED display",Low stock alert | VIP margin 25% | Pacific Imports Inc
+NI-X-0205,Nigeria,Computing,Mechanical Keyboard,129425.85,NGN,"Cherry MX, RGB, wired, UK layout",Backorder until 02/15 | Margin 22% | Pacific Imports Inc
+NE-Y-0206,Netherlands,Kitchen Appliances,Coffee Maker Drip,34.86,EUR,"12-cup, programmable, thermal carafe",Stock in WH3 Berlin | Bulk discount applies 15% | Acme Electronics Ltd
+NI-Z-0207,Nigeria,Home Appliances,Air Purifier Compact,163193.66,NGN,"HEPA H13, 3 speeds, 25m² coverage",Fulfilled from NL depot | Global Sourcing Co | Margin 22%
+FR-A-0208,France,Wearables,Fitness Tracker Band,28.63,EUR,"Steps, sleep, HR, 14-day battery",Margin 22% | Fulfilled from NL depot | Acme Electronics Ltd
+NE-B-0209,Netherlands,Computing,"Tablet 10""",178.0,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Target margin 18% | Fulfilled from NL depot | Pacific Imports Inc
+SA-C-0210,South Africa,Computing,"Tablet 10""",3860.65,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Warehouse A-12 | VIP margin 25% | Africa Direct Trading
+US-D-0211,United States,TV & Display,LED TV 55 inch,484.38,USD,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Africa Direct Trading | Stock in WH3 Berlin | Target margin 18%
+GH-E-0212,Ghana,Kitchen Appliances,Coffee Maker Drip,474.1,GHS,"12-cup, programmable, thermal carafe",EuroTech Suppliers | Target margin 18% | Warehouse A-12
+NI-F-0213,Nigeria,TV & Display,LED TV 55 inch,717093.3,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",EuroTech Suppliers | Backorder until 02/15 | Margin 22%
+GH-G-0214,Ghana,Kitchen Appliances,Coffee Maker Drip,526.16,GHS,"12-cup, programmable, thermal carafe",Pacific Imports Inc | Target margin 18% | Warehouse A-12
+CD-H-0215,Côte d'Ivoire,Solar & Power,Solar Inverter TS-9000-X,734731.06,XOF,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Pacific Imports Inc | Target margin 18% | Backorder until 02/15
+CA-I-0216,Canada,Power & Batteries,Portable Power Bank 20K,37.82,CAD,"20000mAh, dual USB, 18W PD",Warehouse A-12 | Acme Electronics Ltd | VIP margin 25%
+GH-J-0217,Ghana,Wearables,Smart Watch Sport,1253.96,GHS,"GPS, heart rate, 5ATM, 7-day battery",Pacific Imports Inc | Low stock alert | Bulk discount applies 15%
+KE-K-0218,Kenya,Solar & Power,Solar Inverter TS-9000-X,169061.1,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Fulfilled from NL depot | Bulk discount applies 15% | Global Sourcing Co
+KE-L-0219,Kenya,Audio,Wireless Bluetooth Earbuds,4972.21,KES,"ANC, 24h battery, IPX5, USB-C",EuroTech Suppliers | Backorder until 02/15 | VIP margin 25%
+CD-M-0220,Côte d'Ivoire,Home Appliances,Electric Fan Tower,33958.51,XOF,"Oscillating, 3 speeds, remote, timer",Fulfilled from NL depot | Promo margin 12% | Pacific Imports Inc
+NI-N-0221,Nigeria,Computing,"Tablet 10""",330192.84,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Fulfilled from NL depot | Global Sourcing Co | Promo margin 12%
+NI-O-0222,Nigeria,Home Appliances,Air Purifier Compact,159351.57,NGN,"HEPA H13, 3 speeds, 25m² coverage",Pacific Imports Inc | VIP margin 25% | Low stock alert
+CD-P-0223,Côte d'Ivoire,Wearables,Fitness Tracker Band,17753.38,XOF,"Steps, sleep, HR, 14-day battery",Acme Electronics Ltd | Low stock alert | Bulk discount applies 15%
+CA-Q-0224,Canada,Solar & Power,Solar Inverter TS-9000-X,1574.89,CAD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",VIP margin 25% | Nordic Wholesale | Fulfilled from NL depot
+GH-R-0225,Ghana,Lighting,LED Desk Lamp,391.91,GHS,"Dimmable, USB port, 5 brightness levels",VIP margin 25% | Warehouse A-12 | Nordic Wholesale
+SA-S-0226,South Africa,Kitchen Appliances,Coffee Maker Drip,699.34,ZAR,"12-cup, programmable, thermal carafe",Low stock alert | Margin 22% | Africa Direct Trading
+GE-T-0227,Germany,Kitchen Appliances,Coffee Maker Drip,36.32,EUR,"12-cup, programmable, thermal carafe",Acme Electronics Ltd | Promo margin 12% | Stock in WH3 Berlin
+UK-U-0228,United Kingdom,Home Appliances,Air Purifier Compact,81.05,GBP,"HEPA H13, 3 speeds, 25m² coverage",Margin 22% | Global Sourcing Co | Warehouse A-12
+FR-V-0229,France,Audio,Bluetooth Speaker,50.02,EUR,"20W, waterproof IPX7, 15h playback",Acme Electronics Ltd | Bulk discount applies 15% | Fulfilled from NL depot
+SA-W-0230,South Africa,Personal Care,Electric Toothbrush,823.13,ZAR,"Sonic, 3 modes, 2-week battery",Target margin 18% | Warehouse A-12 | EuroTech Suppliers
+FR-X-0231,France,Power & Batteries,Portable Power Bank 20K,25.98,EUR,"20000mAh, dual USB, 18W PD",EuroTech Suppliers | Margin 22% | Fulfilled from NL depot
+NI-Y-0232,Nigeria,Personal Care,Electric Toothbrush,73450.14,NGN,"Sonic, 3 modes, 2-week battery",Target margin 18% | Global Sourcing Co | Fulfilled from NL depot
+NI-Z-0233,Nigeria,Wearables,Smart Watch Sport,152905.59,NGN,"GPS, heart rate, 5ATM, 7-day battery",Global Sourcing Co | Warehouse A-12 | VIP margin 25%
+FR-A-0234,France,Lighting,LED Desk Lamp,27.62,EUR,"Dimmable, USB port, 5 brightness levels",Acme Electronics Ltd | Fulfilled from NL depot | Margin 22%
+NE-B-0235,Netherlands,Computing,"Tablet 10""",202.09,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Stock in WH3 Berlin | Africa Direct Trading | Margin 22%
+FR-C-0236,France,Wearables,Fitness Tracker Band,28.98,EUR,"Steps, sleep, HR, 14-day battery",Target margin 18% | Pacific Imports Inc | Low stock alert
+CD-D-0237,Côte d'Ivoire,Computing,"Tablet 10""",125438.39,XOF,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Low stock alert | Margin 22% | Acme Electronics Ltd
+CD-E-0238,Côte d'Ivoire,Power & Batteries,Portable Power Bank 20K,15217.98,XOF,"20000mAh, dual USB, 18W PD",Nordic Wholesale | Target margin 18% | Fulfilled from NL depot
+NI-F-0239,Nigeria,Computing,Webcam HD Pro,84334.45,NGN,"1080p 60fps, built-in mic, auto-focus",Africa Direct Trading | Bulk discount applies 15% | Stock in WH3 Berlin
+US-G-0240,United States,Kitchen Appliances,Smart Kettle Pro,47.27,USD,"1.7L, 3000W, boil-dry protection, LED display",Promo margin 12% | Low stock alert | Global Sourcing Co
+CA-H-0241,Canada,Home Appliances,Air Purifier Compact,144.51,CAD,"HEPA H13, 3 speeds, 25m² coverage",Margin 22% | Warehouse A-12 | Africa Direct Trading
+CA-I-0242,Canada,Computing,Webcam HD Pro,80.8,CAD,"1080p 60fps, built-in mic, auto-focus",VIP margin 25% | Africa Direct Trading | Low stock alert
+FR-J-0243,France,Personal Care,Electric Toothbrush,41.67,EUR,"Sonic, 3 modes, 2-week battery",Pacific Imports Inc | VIP margin 25% | Stock in WH3 Berlin
+KE-K-0244,Kenya,Wearables,Fitness Tracker Band,3580.58,KES,"Steps, sleep, HR, 14-day battery",Acme Electronics Ltd | Backorder until 02/15 | Target margin 18%
+FR-L-0245,France,Wearables,Smart Watch Sport,83.36,EUR,"GPS, heart rate, 5ATM, 7-day battery",Global Sourcing Co | Bulk discount applies 15% | Fulfilled from NL depot
+UK-M-0246,United Kingdom,Lighting,LED Desk Lamp,24.38,GBP,"Dimmable, USB port, 5 brightness levels",Warehouse A-12 | Africa Direct Trading | Promo margin 12%
+FR-N-0247,France,Audio,Wireless Bluetooth Earbuds,32.31,EUR,"ANC, 24h battery, IPX5, USB-C",Warehouse A-12 | Target margin 18% | Global Sourcing Co
+UK-O-0248,United Kingdom,Computing,"Tablet 10""",157.16,GBP,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Global Sourcing Co | Bulk discount applies 15% | Low stock alert
+SA-P-0249,South Africa,Power & Batteries,Portable Power Bank 20K,472.34,ZAR,"20000mAh, dual USB, 18W PD",Africa Direct Trading | Backorder until 02/15 | VIP margin 25%
+GH-Q-0250,Ghana,Kitchen Appliances,Smart Kettle Pro,640.71,GHS,"1.7L, 3000W, boil-dry protection, LED display",Stock in WH3 Berlin | VIP margin 25% | Africa Direct Trading
+GH-R-0251,Ghana,Solar & Power,Solar Inverter TS-9000-X,15094.07,GHS,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",VIP margin 25% | Africa Direct Trading | Fulfilled from NL depot
+NI-S-0252,Nigeria,Computing,"Tablet 10""",301289.95,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Backorder until 02/15 | Pacific Imports Inc | Bulk discount applies 15%
+UK-T-0253,United Kingdom,Solar & Power,Solar Inverter TS-9000-X,1008.73,GBP,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Low stock alert | Global Sourcing Co | Bulk discount applies 15%
+UK-U-0254,United Kingdom,Wearables,Fitness Tracker Band,25.27,GBP,"Steps, sleep, HR, 14-day battery",Promo margin 12% | Low stock alert | Pacific Imports Inc
+NI-V-0255,Nigeria,Audio,Bluetooth Speaker,76233.19,NGN,"20W, waterproof IPX7, 15h playback",Promo margin 12% | Fulfilled from NL depot | Pacific Imports Inc
+US-W-0256,United States,Audio,Bluetooth Speaker,50.4,USD,"20W, waterproof IPX7, 15h playback",Acme Electronics Ltd | Margin 22% | Stock in WH3 Berlin
+FR-X-0257,France,Wearables,Fitness Tracker Band,26.14,EUR,"Steps, sleep, HR, 14-day battery",Africa Direct Trading | Target margin 18% | Fulfilled from NL depot
+CD-Y-0258,Côte d'Ivoire,Audio,Bluetooth Speaker,33065.95,XOF,"20W, waterproof IPX7, 15h playback",Nordic Wholesale | Low stock alert | Bulk discount applies 15%
+US-Z-0259,United States,Personal Care,Electric Toothbrush,43.89,USD,"Sonic, 3 modes, 2-week battery",Bulk discount applies 15% | Acme Electronics Ltd | Fulfilled from NL depot
+UK-A-0260,United Kingdom,Personal Care,Electric Toothbrush,36.81,GBP,"Sonic, 3 modes, 2-week battery",Nordic Wholesale | Low stock alert | Margin 22%
+CA-B-0261,Canada,Computing,Mechanical Keyboard,111.62,CAD,"Cherry MX, RGB, wired, UK layout",Africa Direct Trading | VIP margin 25% | Stock in WH3 Berlin
+CD-C-0262,Côte d'Ivoire,Computing,Mechanical Keyboard,43034.13,XOF,"Cherry MX, RGB, wired, UK layout",Stock in WH3 Berlin | Margin 22% | Nordic Wholesale
+GE-D-0263,Germany,Computing,"Tablet 10""",179.47,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Nordic Wholesale | Target margin 18% | Backorder until 02/15
+GH-E-0264,Ghana,Lighting,LED Desk Lamp,368.81,GHS,"Dimmable, USB port, 5 brightness levels",Africa Direct Trading | Bulk discount applies 15% | Backorder until 02/15
+GE-F-0265,Germany,Power & Batteries,Portable Power Bank 20K,23.96,EUR,"20000mAh, dual USB, 18W PD",Africa Direct Trading | Low stock alert | Bulk discount applies 15%
+US-G-0266,United States,Home Appliances,Electric Fan Tower,51.4,USD,"Oscillating, 3 speeds, remote, timer",Low stock alert | Global Sourcing Co | Bulk discount applies 15%
+KE-H-0267,Kenya,Personal Care,Electric Toothbrush,5865.11,KES,"Sonic, 3 modes, 2-week battery",Nordic Wholesale | Fulfilled from NL depot | VIP margin 25%
+NE-I-0268,Netherlands,Computing,Webcam HD Pro,50.98,EUR,"1080p 60fps, built-in mic, auto-focus",Africa Direct Trading | Backorder until 02/15 | Promo margin 12%
+CD-J-0269,Côte d'Ivoire,Personal Care,Electric Toothbrush,24152.02,XOF,"Sonic, 3 modes, 2-week battery",Nordic Wholesale | Fulfilled from NL depot | Margin 22%
+FR-K-0270,France,Wearables,Smart Watch Sport,81.1,EUR,"GPS, heart rate, 5ATM, 7-day battery",Africa Direct Trading | Bulk discount applies 15% | Low stock alert
+CD-L-0271,Côte d'Ivoire,Audio,Wireless Bluetooth Earbuds,22535.84,XOF,"ANC, 24h battery, IPX5, USB-C",Target margin 18% | Stock in WH3 Berlin | Africa Direct Trading
+CA-M-0272,Canada,Computing,Mechanical Keyboard,97.97,CAD,"Cherry MX, RGB, wired, UK layout",Bulk discount applies 15% | Backorder until 02/15 | EuroTech Suppliers
+GH-N-0273,Ghana,Power & Batteries,Portable Power Bank 20K,322.31,GHS,"20000mAh, dual USB, 18W PD",EuroTech Suppliers | Stock in WH3 Berlin | VIP margin 25%
+KE-O-0274,Kenya,Solar & Power,Solar Inverter TS-9000-X,173811.82,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Promo margin 12% | Acme Electronics Ltd | Stock in WH3 Berlin
+CD-P-0275,Côte d'Ivoire,Computing,"Tablet 10""",134498.01,XOF,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Backorder until 02/15 | Global Sourcing Co | Margin 22%
+KE-Q-0276,Kenya,Solar & Power,Solar Inverter TS-9000-X,146204.69,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Africa Direct Trading | Warehouse A-12 | Promo margin 12%
+FR-R-0277,France,Home Appliances,Electric Fan Tower,53.96,EUR,"Oscillating, 3 speeds, remote, timer",Backorder until 02/15 | Global Sourcing Co | Promo margin 12%
+NI-S-0278,Nigeria,Home Appliances,Air Purifier Compact,144672.96,NGN,"HEPA H13, 3 speeds, 25m² coverage",Stock in WH3 Berlin | Bulk discount applies 15% | EuroTech Suppliers
+KE-T-0279,Kenya,Wearables,Smart Watch Sport,11222.25,KES,"GPS, heart rate, 5ATM, 7-day battery",Nordic Wholesale | VIP margin 25% | Backorder until 02/15
+NI-U-0280,Nigeria,Audio,Bluetooth Speaker,80638.53,NGN,"20W, waterproof IPX7, 15h playback",Backorder until 02/15 | Global Sourcing Co | Target margin 18%
+GH-V-0281,Ghana,Computing,Webcam HD Pro,705.87,GHS,"1080p 60fps, built-in mic, auto-focus",Fulfilled from NL depot | EuroTech Suppliers | Bulk discount applies 15%
+KE-W-0282,Kenya,Kitchen Appliances,Coffee Maker Drip,5294.73,KES,"12-cup, programmable, thermal carafe",Backorder until 02/15 | Acme Electronics Ltd | Margin 22%
+UK-X-0283,United Kingdom,Personal Care,Electric Toothbrush,36.1,GBP,"Sonic, 3 modes, 2-week battery",Bulk discount applies 15% | Nordic Wholesale | Fulfilled from NL depot
+SA-Y-0284,South Africa,Lighting,LED Desk Lamp,527.0,ZAR,"Dimmable, USB port, 5 brightness levels",EuroTech Suppliers | Fulfilled from NL depot | Promo margin 12%
+NE-Z-0285,Netherlands,Wearables,Smart Watch Sport,90.26,EUR,"GPS, heart rate, 5ATM, 7-day battery",Nordic Wholesale | Promo margin 12% | Warehouse A-12
+NE-A-0286,Netherlands,Kitchen Appliances,Coffee Maker Drip,33.76,EUR,"12-cup, programmable, thermal carafe",Margin 22% | Africa Direct Trading | Warehouse A-12
+US-B-0287,United States,Lighting,LED Desk Lamp,27.52,USD,"Dimmable, USB port, 5 brightness levels",VIP margin 25% | Africa Direct Trading | Warehouse A-12
+US-C-0288,United States,Home Appliances,Electric Fan Tower,50.35,USD,"Oscillating, 3 speeds, remote, timer",Warehouse A-12 | Africa Direct Trading | VIP margin 25%
+NE-D-0289,Netherlands,Computing,"Tablet 10""",190.65,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Acme Electronics Ltd | Promo margin 12% | Backorder until 02/15
+GH-E-0290,Ghana,Audio,Bluetooth Speaker,600.53,GHS,"20W, waterproof IPX7, 15h playback",Target margin 18% | Low stock alert | Acme Electronics Ltd
+UK-F-0291,United Kingdom,Kitchen Appliances,Coffee Maker Drip,32.72,GBP,"12-cup, programmable, thermal carafe",Warehouse A-12 | Africa Direct Trading | Margin 22%
+KE-G-0292,Kenya,Computing,"Tablet 10""",25115.3,KES,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Global Sourcing Co | Fulfilled from NL depot | VIP margin 25%
+UK-H-0293,United Kingdom,Audio,Bluetooth Speaker,36.63,GBP,"20W, waterproof IPX7, 15h playback",Nordic Wholesale | Promo margin 12% | Stock in WH3 Berlin
+NI-I-0294,Nigeria,Power & Batteries,Portable Power Bank 20K,44507.06,NGN,"20000mAh, dual USB, 18W PD",Promo margin 12% | EuroTech Suppliers | Stock in WH3 Berlin
+GH-J-0295,Ghana,TV & Display,LED TV 55 inch,6444.55,GHS,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",EuroTech Suppliers | Promo margin 12% | Backorder until 02/15
+SA-K-0296,South Africa,Computing,Mechanical Keyboard,1406.87,ZAR,"Cherry MX, RGB, wired, UK layout",Bulk discount applies 15% | Global Sourcing Co | Stock in WH3 Berlin
+GH-L-0297,Ghana,Computing,"Tablet 10""",2669.05,GHS,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Target margin 18% | Stock in WH3 Berlin | Acme Electronics Ltd
+US-M-0298,United States,Solar & Power,Solar Inverter TS-9000-X,1247.15,USD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Margin 22% | Nordic Wholesale | Stock in WH3 Berlin
+UK-N-0299,United Kingdom,Wearables,Fitness Tracker Band,22.84,GBP,"Steps, sleep, HR, 14-day battery",Global Sourcing Co | Margin 22% | Stock in WH3 Berlin
+SA-O-0300,South Africa,Home Appliances,Air Purifier Compact,1822.0,ZAR,"HEPA H13, 3 speeds, 25m² coverage",Stock in WH3 Berlin | Nordic Wholesale | Bulk discount applies 15%
+CA-P-0301,Canada,Computing,Mechanical Keyboard,105.34,CAD,"Cherry MX, RGB, wired, UK layout",Margin 22% | Pacific Imports Inc | Low stock alert
+CA-Q-0302,Canada,Computing,"Tablet 10""",287.2,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Acme Electronics Ltd | Bulk discount applies 15% | Backorder until 02/15
+UK-R-0303,United Kingdom,Computing,"Tablet 10""",154.04,GBP,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Low stock alert | EuroTech Suppliers | Target margin 18%
+SA-S-0304,South Africa,Personal Care,Electric Toothbrush,847.86,ZAR,"Sonic, 3 modes, 2-week battery",Global Sourcing Co | VIP margin 25% | Warehouse A-12
+UK-T-0305,United Kingdom,Lighting,LED Desk Lamp,22.73,GBP,"Dimmable, USB port, 5 brightness levels",Target margin 18% | Pacific Imports Inc | Fulfilled from NL depot
+FR-U-0306,France,Kitchen Appliances,Coffee Maker Drip,33.86,EUR,"12-cup, programmable, thermal carafe",Nordic Wholesale | Warehouse A-12 | Target margin 18%
+CA-V-0307,Canada,Solar & Power,Solar Inverter TS-9000-X,1835.55,CAD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Low stock alert | Promo margin 12% | Global Sourcing Co
+SA-W-0308,South Africa,Home Appliances,Air Purifier Compact,1728.19,ZAR,"HEPA H13, 3 speeds, 25m² coverage",Target margin 18% | Acme Electronics Ltd | Stock in WH3 Berlin
+FR-X-0309,France,Computing,Mechanical Keyboard,75.15,EUR,"Cherry MX, RGB, wired, UK layout",Backorder until 02/15 | Target margin 18% | Nordic Wholesale
+KE-Y-0310,Kenya,Audio,Bluetooth Speaker,6409.73,KES,"20W, waterproof IPX7, 15h playback",Nordic Wholesale | Fulfilled from NL depot | Bulk discount applies 15%
+NE-Z-0311,Netherlands,Home Appliances,Electric Fan Tower,49.91,EUR,"Oscillating, 3 speeds, remote, timer",Fulfilled from NL depot | VIP margin 25% | Nordic Wholesale
+GE-A-0312,Germany,Computing,"Tablet 10""",175.6,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Global Sourcing Co | Warehouse A-12 | Target margin 18%
+KE-B-0313,Kenya,Lighting,LED Desk Lamp,3545.43,KES,"Dimmable, USB port, 5 brightness levels",Low stock alert | VIP margin 25% | Global Sourcing Co
+NE-C-0314,Netherlands,Home Appliances,Air Purifier Compact,87.53,EUR,"HEPA H13, 3 speeds, 25m² coverage",Backorder until 02/15 | VIP margin 25% | EuroTech Suppliers
+CD-D-0315,Côte d'Ivoire,Lighting,LED Desk Lamp,18380.25,XOF,"Dimmable, USB port, 5 brightness levels",Target margin 18% | EuroTech Suppliers | Low stock alert
+NE-E-0316,Netherlands,Solar & Power,Solar Inverter TS-9000-X,1234.07,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Warehouse A-12 | Acme Electronics Ltd | Margin 22%
+CA-F-0317,Canada,Computing,Mechanical Keyboard,98.29,CAD,"Cherry MX, RGB, wired, UK layout",Global Sourcing Co | Margin 22% | Stock in WH3 Berlin
+GE-G-0318,Germany,Solar & Power,Solar Inverter TS-9000-X,1185.22,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Nordic Wholesale | Promo margin 12% | Backorder until 02/15
+GH-H-0319,Ghana,TV & Display,LED TV 55 inch,5942.49,GHS,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",EuroTech Suppliers | Margin 22% | Warehouse A-12
+NE-I-0320,Netherlands,Personal Care,Electric Toothbrush,36.84,EUR,"Sonic, 3 modes, 2-week battery",VIP margin 25% | Stock in WH3 Berlin | Nordic Wholesale
+NE-J-0321,Netherlands,Lighting,LED Desk Lamp,25.71,EUR,"Dimmable, USB port, 5 brightness levels",Africa Direct Trading | Fulfilled from NL depot | Promo margin 12%
+UK-K-0322,United Kingdom,Kitchen Appliances,Smart Kettle Pro,36.42,GBP,"1.7L, 3000W, boil-dry protection, LED display",VIP margin 25% | Low stock alert | EuroTech Suppliers
+KE-L-0323,Kenya,Kitchen Appliances,Smart Kettle Pro,6225.1,KES,"1.7L, 3000W, boil-dry protection, LED display",Nordic Wholesale | Warehouse A-12 | Margin 22%
+UK-M-0324,United Kingdom,Home Appliances,Electric Fan Tower,39.49,GBP,"Oscillating, 3 speeds, remote, timer",Acme Electronics Ltd | Warehouse A-12 | Target margin 18%
+CA-N-0325,Canada,Home Appliances,Air Purifier Compact,137.36,CAD,"HEPA H13, 3 speeds, 25m² coverage",Promo margin 12% | Warehouse A-12 | Acme Electronics Ltd
+US-O-0326,United States,Home Appliances,Electric Fan Tower,52.22,USD,"Oscillating, 3 speeds, remote, timer",Bulk discount applies 15% | Acme Electronics Ltd | Low stock alert
+CD-P-0327,Côte d'Ivoire,Home Appliances,Air Purifier Compact,54328.5,XOF,"HEPA H13, 3 speeds, 25m² coverage",Global Sourcing Co | Promo margin 12% | Stock in WH3 Berlin
+NI-Q-0328,Nigeria,Personal Care,Electric Toothbrush,63960.1,NGN,"Sonic, 3 modes, 2-week battery",Global Sourcing Co | Promo margin 12% | Backorder until 02/15
+UK-R-0329,United Kingdom,Lighting,LED Desk Lamp,24.51,GBP,"Dimmable, USB port, 5 brightness levels",Nordic Wholesale | Margin 22% | Low stock alert
+GH-S-0330,Ghana,Audio,Wireless Bluetooth Earbuds,453.87,GHS,"ANC, 24h battery, IPX5, USB-C",Acme Electronics Ltd | Bulk discount applies 15% | Low stock alert
+GE-T-0331,Germany,TV & Display,LED TV 55 inch,445.81,EUR,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",EuroTech Suppliers | Stock in WH3 Berlin | VIP margin 25%
+UK-U-0332,United Kingdom,Power & Batteries,Portable Power Bank 20K,21.45,GBP,"20000mAh, dual USB, 18W PD",Nordic Wholesale | VIP margin 25% | Warehouse A-12
+SA-V-0333,South Africa,Kitchen Appliances,Smart Kettle Pro,782.79,ZAR,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | VIP margin 25% | Stock in WH3 Berlin
+GE-W-0334,Germany,Kitchen Appliances,Coffee Maker Drip,33.96,EUR,"12-cup, programmable, thermal carafe",Acme Electronics Ltd | Backorder until 02/15 | Bulk discount applies 15%
+NI-X-0335,Nigeria,Lighting,LED Desk Lamp,41987.74,NGN,"Dimmable, USB port, 5 brightness levels",EuroTech Suppliers | VIP margin 25% | Low stock alert
+NI-Y-0336,Nigeria,TV & Display,LED TV 55 inch,675126.83,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Africa Direct Trading | Margin 22% | Low stock alert
+UK-Z-0337,United Kingdom,TV & Display,LED TV 55 inch,358.48,GBP,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Margin 22% | Low stock alert | EuroTech Suppliers
+CA-A-0338,Canada,Audio,Bluetooth Speaker,64.23,CAD,"20W, waterproof IPX7, 15h playback",Fulfilled from NL depot | Pacific Imports Inc | Bulk discount applies 15%
+NI-B-0339,Nigeria,Power & Batteries,Portable Power Bank 20K,40181.24,NGN,"20000mAh, dual USB, 18W PD",Backorder until 02/15 | Bulk discount applies 15% | EuroTech Suppliers
+KE-C-0340,Kenya,Computing,Mechanical Keyboard,10504.13,KES,"Cherry MX, RGB, wired, UK layout",Low stock alert | Promo margin 12% | EuroTech Suppliers
+NI-D-0341,Nigeria,Lighting,LED Desk Lamp,43874.43,NGN,"Dimmable, USB port, 5 brightness levels",EuroTech Suppliers | Low stock alert | Bulk discount applies 15%
+FR-E-0342,France,Home Appliances,Air Purifier Compact,90.56,EUR,"HEPA H13, 3 speeds, 25m² coverage",Nordic Wholesale | Stock in WH3 Berlin | Promo margin 12%
+US-F-0343,United States,Wearables,Smart Watch Sport,93.08,USD,"GPS, heart rate, 5ATM, 7-day battery",Global Sourcing Co | Fulfilled from NL depot | VIP margin 25%
+US-G-0344,United States,Computing,Mechanical Keyboard,76.14,USD,"Cherry MX, RGB, wired, UK layout",VIP margin 25% | Fulfilled from NL depot | Pacific Imports Inc
+US-H-0345,United States,Power & Batteries,Portable Power Bank 20K,27.16,USD,"20000mAh, dual USB, 18W PD",Margin 22% | Africa Direct Trading | Backorder until 02/15
+FR-I-0346,France,Personal Care,Electric Toothbrush,43.13,EUR,"Sonic, 3 modes, 2-week battery",Backorder until 02/15 | VIP margin 25% | Acme Electronics Ltd
+SA-J-0347,South Africa,Computing,Webcam HD Pro,1070.92,ZAR,"1080p 60fps, built-in mic, auto-focus",Backorder until 02/15 | VIP margin 25% | Nordic Wholesale
+US-K-0348,United States,Home Appliances,Electric Fan Tower,55.46,USD,"Oscillating, 3 speeds, remote, timer",Promo margin 12% | Africa Direct Trading | Backorder until 02/15
+GE-L-0349,Germany,Kitchen Appliances,Smart Kettle Pro,40.24,EUR,"1.7L, 3000W, boil-dry protection, LED display",Bulk discount applies 15% | Global Sourcing Co | Stock in WH3 Berlin
+US-M-0350,United States,Audio,Bluetooth Speaker,54.88,USD,"20W, waterproof IPX7, 15h playback",VIP margin 25% | Warehouse A-12 | Pacific Imports Inc
+KE-N-0351,Kenya,Computing,Mechanical Keyboard,10100.5,KES,"Cherry MX, RGB, wired, UK layout",Promo margin 12% | Africa Direct Trading | Low stock alert
+FR-O-0352,France,Kitchen Appliances,Coffee Maker Drip,35.95,EUR,"12-cup, programmable, thermal carafe",Low stock alert | Promo margin 12% | Nordic Wholesale
+GH-P-0353,Ghana,Home Appliances,Electric Fan Tower,631.09,GHS,"Oscillating, 3 speeds, remote, timer",Margin 22% | EuroTech Suppliers | Warehouse A-12
+GE-Q-0354,Germany,Personal Care,Electric Toothbrush,39.36,EUR,"Sonic, 3 modes, 2-week battery",Global Sourcing Co | Backorder until 02/15 | Promo margin 12%
+NI-R-0355,Nigeria,Wearables,Fitness Tracker Band,49193.23,NGN,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | EuroTech Suppliers | Bulk discount applies 15%
+NI-S-0356,Nigeria,TV & Display,LED TV 55 inch,781085.61,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Margin 22% | Nordic Wholesale | Stock in WH3 Berlin
+NE-T-0357,Netherlands,Power & Batteries,Portable Power Bank 20K,24.39,EUR,"20000mAh, dual USB, 18W PD",Backorder until 02/15 | Pacific Imports Inc | Promo margin 12%
+UK-U-0358,United Kingdom,Power & Batteries,Portable Power Bank 20K,19.5,GBP,"20000mAh, dual USB, 18W PD",VIP margin 25% | Backorder until 02/15 | Nordic Wholesale
+FR-V-0359,France,Computing,"Tablet 10""",188.16,EUR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Stock in WH3 Berlin | Nordic Wholesale | Target margin 18%
+US-W-0360,United States,Audio,Wireless Bluetooth Earbuds,38.85,USD,"ANC, 24h battery, IPX5, USB-C",Fulfilled from NL depot | Africa Direct Trading | Target margin 18%
+FR-X-0361,France,Audio,Wireless Bluetooth Earbuds,32.28,EUR,"ANC, 24h battery, IPX5, USB-C",EuroTech Suppliers | Promo margin 12% | Fulfilled from NL depot
+US-Y-0362,United States,Audio,Bluetooth Speaker,51.24,USD,"20W, waterproof IPX7, 15h playback",Bulk discount applies 15% | Pacific Imports Inc | Backorder until 02/15
+CA-Z-0363,Canada,Personal Care,Electric Toothbrush,64.76,CAD,"Sonic, 3 modes, 2-week battery",Stock in WH3 Berlin | Africa Direct Trading | Margin 22%
+SA-A-0364,South Africa,Personal Care,Electric Toothbrush,735.88,ZAR,"Sonic, 3 modes, 2-week battery",Pacific Imports Inc | Low stock alert | Target margin 18%
+US-B-0365,United States,Lighting,LED Desk Lamp,29.82,USD,"Dimmable, USB port, 5 brightness levels",Target margin 18% | EuroTech Suppliers | Backorder until 02/15
+NE-C-0366,Netherlands,Power & Batteries,Portable Power Bank 20K,24.1,EUR,"20000mAh, dual USB, 18W PD",Fulfilled from NL depot | Global Sourcing Co | Target margin 18%
+GE-D-0367,Germany,TV & Display,LED TV 55 inch,433.43,EUR,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Global Sourcing Co | VIP margin 25% | Low stock alert
+UK-E-0368,United Kingdom,Home Appliances,Electric Fan Tower,42.44,GBP,"Oscillating, 3 speeds, remote, timer",VIP margin 25% | Stock in WH3 Berlin | EuroTech Suppliers
+SA-F-0369,South Africa,Personal Care,Electric Toothbrush,723.14,ZAR,"Sonic, 3 modes, 2-week battery",Fulfilled from NL depot | Promo margin 12% | Global Sourcing Co
+US-G-0370,United States,Home Appliances,Electric Fan Tower,55.12,USD,"Oscillating, 3 speeds, remote, timer",Acme Electronics Ltd | Warehouse A-12 | Promo margin 12%
+NE-H-0371,Netherlands,Solar & Power,Solar Inverter TS-9000-X,1216.61,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Stock in WH3 Berlin | EuroTech Suppliers | Promo margin 12%
+CA-I-0372,Canada,Computing,Mechanical Keyboard,102.97,CAD,"Cherry MX, RGB, wired, UK layout",Fulfilled from NL depot | Acme Electronics Ltd | VIP margin 25%
+FR-J-0373,France,Audio,Wireless Bluetooth Earbuds,35.59,EUR,"ANC, 24h battery, IPX5, USB-C",Global Sourcing Co | Target margin 18% | Low stock alert
+US-K-0374,United States,Computing,"Tablet 10""",195.66,USD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Stock in WH3 Berlin | Target margin 18% | Global Sourcing Co
+NE-L-0375,Netherlands,Computing,Webcam HD Pro,54.11,EUR,"1080p 60fps, built-in mic, auto-focus",Global Sourcing Co | Fulfilled from NL depot | Bulk discount applies 15%
+NE-M-0376,Netherlands,Audio,Wireless Bluetooth Earbuds,31.46,EUR,"ANC, 24h battery, IPX5, USB-C",Margin 22% | EuroTech Suppliers | Fulfilled from NL depot
+CD-N-0377,Côte d'Ivoire,Computing,Mechanical Keyboard,44066.19,XOF,"Cherry MX, RGB, wired, UK layout",Backorder until 02/15 | Pacific Imports Inc | Target margin 18%
+US-O-0378,United States,Computing,Webcam HD Pro,59.16,USD,"1080p 60fps, built-in mic, auto-focus",VIP margin 25% | EuroTech Suppliers | Warehouse A-12
+UK-P-0379,United Kingdom,Computing,Webcam HD Pro,47.31,GBP,"1080p 60fps, built-in mic, auto-focus",Backorder until 02/15 | Pacific Imports Inc | VIP margin 25%
+NI-Q-0380,Nigeria,Wearables,Fitness Tracker Band,48409.72,NGN,"Steps, sleep, HR, 14-day battery",Nordic Wholesale | Bulk discount applies 15% | Warehouse A-12
+SA-R-0381,South Africa,Computing,"Tablet 10""",3993.82,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",EuroTech Suppliers | Fulfilled from NL depot | Bulk discount applies 15%
+NE-S-0382,Netherlands,Lighting,LED Desk Lamp,27.39,EUR,"Dimmable, USB port, 5 brightness levels",Bulk discount applies 15% | Warehouse A-12 | EuroTech Suppliers
+CA-T-0383,Canada,Wearables,Fitness Tracker Band,37.6,CAD,"Steps, sleep, HR, 14-day battery",Backorder until 02/15 | VIP margin 25% | Global Sourcing Co
+SA-U-0384,South Africa,Lighting,LED Desk Lamp,567.72,ZAR,"Dimmable, USB port, 5 brightness levels",Fulfilled from NL depot | Target margin 18% | Pacific Imports Inc
+KE-V-0385,Kenya,Kitchen Appliances,Smart Kettle Pro,5900.36,KES,"1.7L, 3000W, boil-dry protection, LED display",Nordic Wholesale | Warehouse A-12 | Target margin 18%
+SA-W-0386,South Africa,Computing,"Tablet 10""",3872.49,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Warehouse A-12 | Margin 22% | Nordic Wholesale
+NI-X-0387,Nigeria,Lighting,LED Desk Lamp,46383.14,NGN,"Dimmable, USB port, 5 brightness levels",Warehouse A-12 | VIP margin 25% | Africa Direct Trading
+NI-Y-0388,Nigeria,Computing,"Tablet 10""",335842.27,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Stock in WH3 Berlin | EuroTech Suppliers | Margin 22%
+NI-Z-0389,Nigeria,Audio,Wireless Bluetooth Earbuds,54937.36,NGN,"ANC, 24h battery, IPX5, USB-C",Target margin 18% | Backorder until 02/15 | Pacific Imports Inc
+NI-A-0390,Nigeria,TV & Display,LED TV 55 inch,747764.53,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",VIP margin 25% | Global Sourcing Co | Fulfilled from NL depot
+CA-B-0391,Canada,Lighting,LED Desk Lamp,43.18,CAD,"Dimmable, USB port, 5 brightness levels",VIP margin 25% | Stock in WH3 Berlin | Africa Direct Trading
+CD-C-0392,Côte d'Ivoire,Audio,Wireless Bluetooth Earbuds,22426.21,XOF,"ANC, 24h battery, IPX5, USB-C",Backorder until 02/15 | EuroTech Suppliers | Bulk discount applies 15%
+SA-D-0393,South Africa,Computing,Webcam HD Pro,1068.13,ZAR,"1080p 60fps, built-in mic, auto-focus",Global Sourcing Co | Promo margin 12% | Low stock alert
+GH-E-0394,Ghana,Personal Care,Electric Toothbrush,520.32,GHS,"Sonic, 3 modes, 2-week battery",Africa Direct Trading | Promo margin 12% | Stock in WH3 Berlin
+KE-F-0395,Kenya,Solar & Power,Solar Inverter TS-9000-X,169998.39,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",VIP margin 25% | Backorder until 02/15 | Global Sourcing Co
+FR-G-0396,France,Kitchen Appliances,Smart Kettle Pro,43.7,EUR,"1.7L, 3000W, boil-dry protection, LED display",Fulfilled from NL depot | Bulk discount applies 15% | Acme Electronics Ltd
+US-H-0397,United States,Computing,"Tablet 10""",203.59,USD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Target margin 18% | Backorder until 02/15 | Nordic Wholesale
+US-I-0398,United States,Kitchen Appliances,Smart Kettle Pro,42.87,USD,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | Warehouse A-12 | Margin 22%
+CA-J-0399,Canada,Computing,"Tablet 10""",280.04,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Margin 22% | EuroTech Suppliers | Low stock alert
+KE-K-0400,Kenya,Kitchen Appliances,Smart Kettle Pro,5829.01,KES,"1.7L, 3000W, boil-dry protection, LED display",Africa Direct Trading | Target margin 18% | Stock in WH3 Berlin
+UK-L-0401,United Kingdom,Kitchen Appliances,Smart Kettle Pro,35.98,GBP,"1.7L, 3000W, boil-dry protection, LED display",Target margin 18% | Warehouse A-12 | EuroTech Suppliers
+UK-M-0402,United Kingdom,Audio,Wireless Bluetooth Earbuds,28.77,GBP,"ANC, 24h battery, IPX5, USB-C",Margin 22% | Africa Direct Trading | Fulfilled from NL depot
+NI-N-0403,Nigeria,TV & Display,LED TV 55 inch,761377.13,NGN,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Nordic Wholesale | Stock in WH3 Berlin | Margin 22%
+NE-O-0404,Netherlands,Computing,Webcam HD Pro,49.76,EUR,"1080p 60fps, built-in mic, auto-focus",Warehouse A-12 | Bulk discount applies 15% | Global Sourcing Co
+UK-P-0405,United Kingdom,Computing,Webcam HD Pro,45.83,GBP,"1080p 60fps, built-in mic, auto-focus",Pacific Imports Inc | Warehouse A-12 | Promo margin 12%
+NE-Q-0406,Netherlands,Kitchen Appliances,Coffee Maker Drip,33.6,EUR,"12-cup, programmable, thermal carafe",Fulfilled from NL depot | Target margin 18% | Africa Direct Trading
+NI-R-0407,Nigeria,Audio,Wireless Bluetooth Earbuds,54015.69,NGN,"ANC, 24h battery, IPX5, USB-C",Margin 22% | Warehouse A-12 | Africa Direct Trading
+GH-S-0408,Ghana,Home Appliances,Electric Fan Tower,664.82,GHS,"Oscillating, 3 speeds, remote, timer",Global Sourcing Co | Target margin 18% | Warehouse A-12
+SA-T-0409,South Africa,Home Appliances,Air Purifier Compact,1709.41,ZAR,"HEPA H13, 3 speeds, 25m² coverage",Fulfilled from NL depot | Bulk discount applies 15% | Nordic Wholesale
+NI-U-0410,Nigeria,Solar & Power,Solar Inverter TS-9000-X,1833716.1,NGN,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Backorder until 02/15 | Margin 22% | Africa Direct Trading
+KE-V-0411,Kenya,Personal Care,Electric Toothbrush,5459.11,KES,"Sonic, 3 modes, 2-week battery",Warehouse A-12 | Africa Direct Trading | VIP margin 25%
+KE-W-0412,Kenya,Personal Care,Electric Toothbrush,5902.39,KES,"Sonic, 3 modes, 2-week battery",Global Sourcing Co | VIP margin 25% | Fulfilled from NL depot
+SA-X-0413,South Africa,Computing,Mechanical Keyboard,1323.15,ZAR,"Cherry MX, RGB, wired, UK layout",EuroTech Suppliers | Margin 22% | Stock in WH3 Berlin
+CA-Y-0414,Canada,TV & Display,LED TV 55 inch,697.8,CAD,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",VIP margin 25% | Fulfilled from NL depot | Acme Electronics Ltd
+NE-Z-0415,Netherlands,Computing,Mechanical Keyboard,71.34,EUR,"Cherry MX, RGB, wired, UK layout",Target margin 18% | Fulfilled from NL depot | Acme Electronics Ltd
+SA-A-0416,South Africa,Computing,"Tablet 10""",3904.99,ZAR,"128GB, 10.1"" FHD, 4GB RAM, WiFi",VIP margin 25% | Pacific Imports Inc | Warehouse A-12
+NE-B-0417,Netherlands,Lighting,LED Desk Lamp,27.75,EUR,"Dimmable, USB port, 5 brightness levels",Margin 22% | EuroTech Suppliers | Low stock alert
+UK-C-0418,United Kingdom,Lighting,LED Desk Lamp,22.06,GBP,"Dimmable, USB port, 5 brightness levels",Pacific Imports Inc | Bulk discount applies 15% | Backorder until 02/15
+GE-D-0419,Germany,Wearables,Fitness Tracker Band,26.8,EUR,"Steps, sleep, HR, 14-day battery",Target margin 18% | Acme Electronics Ltd | Stock in WH3 Berlin
+CD-E-0420,Côte d'Ivoire,Audio,Wireless Bluetooth Earbuds,20640.37,XOF,"ANC, 24h battery, IPX5, USB-C",Backorder until 02/15 | Bulk discount applies 15% | EuroTech Suppliers
+SA-F-0421,South Africa,Wearables,Fitness Tracker Band,528.09,ZAR,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Margin 22% | Pacific Imports Inc
+US-G-0422,United States,Solar & Power,Solar Inverter TS-9000-X,1191.6,USD,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Target margin 18% | Pacific Imports Inc | Warehouse A-12
+GE-H-0423,Germany,Audio,Bluetooth Speaker,46.49,EUR,"20W, waterproof IPX7, 15h playback",Bulk discount applies 15% | Fulfilled from NL depot | Nordic Wholesale
+UK-I-0424,United Kingdom,Wearables,Fitness Tracker Band,24.31,GBP,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Africa Direct Trading | Target margin 18%
+CD-J-0425,Côte d'Ivoire,Audio,Wireless Bluetooth Earbuds,20000.22,XOF,"ANC, 24h battery, IPX5, USB-C",Global Sourcing Co | Stock in WH3 Berlin | Target margin 18%
+CA-K-0426,Canada,Kitchen Appliances,Smart Kettle Pro,65.27,CAD,"1.7L, 3000W, boil-dry protection, LED display",Margin 22% | Warehouse A-12 | Pacific Imports Inc
+CA-L-0427,Canada,Wearables,Fitness Tracker Band,43.85,CAD,"Steps, sleep, HR, 14-day battery",Warehouse A-12 | Bulk discount applies 15% | Acme Electronics Ltd
+GH-M-0428,Ghana,Power & Batteries,Portable Power Bank 20K,354.63,GHS,"20000mAh, dual USB, 18W PD",Backorder until 02/15 | VIP margin 25% | EuroTech Suppliers
+CA-N-0429,Canada,Computing,"Tablet 10""",266.46,CAD,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Global Sourcing Co | Fulfilled from NL depot | Target margin 18%
+CD-O-0430,Côte d'Ivoire,Solar & Power,Solar Inverter TS-9000-X,772431.35,XOF,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Africa Direct Trading | Fulfilled from NL depot | Target margin 18%
+NE-P-0431,Netherlands,Home Appliances,Electric Fan Tower,46.03,EUR,"Oscillating, 3 speeds, remote, timer",Stock in WH3 Berlin | Pacific Imports Inc | VIP margin 25%
+CA-Q-0432,Canada,Computing,Mechanical Keyboard,109.77,CAD,"Cherry MX, RGB, wired, UK layout",Africa Direct Trading | Margin 22% | Backorder until 02/15
+FR-R-0433,France,Home Appliances,Electric Fan Tower,48.74,EUR,"Oscillating, 3 speeds, remote, timer",Africa Direct Trading | Fulfilled from NL depot | Promo margin 12%
+CD-S-0434,Côte d'Ivoire,TV & Display,LED TV 55 inch,273719.39,XOF,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Fulfilled from NL depot | Margin 22% | Global Sourcing Co
+NE-T-0435,Netherlands,Kitchen Appliances,Coffee Maker Drip,38.57,EUR,"12-cup, programmable, thermal carafe",Target margin 18% | Warehouse A-12 | Global Sourcing Co
+KE-U-0436,Kenya,Solar & Power,Solar Inverter TS-9000-X,169391.61,KES,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Backorder until 02/15 | Global Sourcing Co | Promo margin 12%
+CD-V-0437,Côte d'Ivoire,Computing,Mechanical Keyboard,48082.68,XOF,"Cherry MX, RGB, wired, UK layout",Low stock alert | Bulk discount applies 15% | Nordic Wholesale
+US-W-0438,United States,Lighting,LED Desk Lamp,29.75,USD,"Dimmable, USB port, 5 brightness levels",Low stock alert | Global Sourcing Co | VIP margin 25%
+FR-X-0439,France,Solar & Power,Solar Inverter TS-9000-X,1068.73,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Stock in WH3 Berlin | Promo margin 12% | Global Sourcing Co
+GH-Y-0440,Ghana,Home Appliances,Air Purifier Compact,1346.13,GHS,"HEPA H13, 3 speeds, 25m² coverage",Target margin 18% | Global Sourcing Co | Fulfilled from NL depot
+GE-Z-0441,Germany,Solar & Power,Solar Inverter TS-9000-X,1053.64,EUR,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",Africa Direct Trading | Target margin 18% | Warehouse A-12
+NI-A-0442,Nigeria,Kitchen Appliances,Coffee Maker Drip,64254.46,NGN,"12-cup, programmable, thermal carafe",Low stock alert | VIP margin 25% | Nordic Wholesale
+KE-B-0443,Kenya,Home Appliances,Air Purifier Compact,11883.85,KES,"HEPA H13, 3 speeds, 25m² coverage",Global Sourcing Co | VIP margin 25% | Backorder until 02/15
+CD-C-0444,Côte d'Ivoire,Kitchen Appliances,Coffee Maker Drip,22677.96,XOF,"12-cup, programmable, thermal carafe",Africa Direct Trading | Backorder until 02/15 | Target margin 18%
+CD-D-0445,Côte d'Ivoire,Power & Batteries,Portable Power Bank 20K,16436.49,XOF,"20000mAh, dual USB, 18W PD",Promo margin 12% | Nordic Wholesale | Backorder until 02/15
+CD-E-0446,Côte d'Ivoire,Home Appliances,Air Purifier Compact,64649.84,XOF,"HEPA H13, 3 speeds, 25m² coverage",Low stock alert | Target margin 18% | Africa Direct Trading
+CD-F-0447,Côte d'Ivoire,Home Appliances,Air Purifier Compact,62646.91,XOF,"HEPA H13, 3 speeds, 25m² coverage",Bulk discount applies 15% | Fulfilled from NL depot | Global Sourcing Co
+CA-G-0448,Canada,Home Appliances,Air Purifier Compact,134.28,CAD,"HEPA H13, 3 speeds, 25m² coverage",Target margin 18% | Pacific Imports Inc | Stock in WH3 Berlin
+GE-H-0449,Germany,Computing,Webcam HD Pro,56.03,EUR,"1080p 60fps, built-in mic, auto-focus",Nordic Wholesale | Warehouse A-12 | Margin 22%
+UK-I-0450,United Kingdom,Power & Batteries,Portable Power Bank 20K,22.26,GBP,"20000mAh, dual USB, 18W PD",EuroTech Suppliers | VIP margin 25% | Fulfilled from NL depot
+NI-J-0451,Nigeria,Home Appliances,Electric Fan Tower,89284.33,NGN,"Oscillating, 3 speeds, remote, timer",Stock in WH3 Berlin | Africa Direct Trading | Target margin 18%
+GH-K-0452,Ghana,Personal Care,Electric Toothbrush,500.86,GHS,"Sonic, 3 modes, 2-week battery",Warehouse A-12 | Pacific Imports Inc | Margin 22%
+UK-L-0453,United Kingdom,Power & Batteries,Portable Power Bank 20K,21.65,GBP,"20000mAh, dual USB, 18W PD",Africa Direct Trading | Margin 22% | Fulfilled from NL depot
+GH-M-0454,Ghana,Computing,"Tablet 10""",2831.99,GHS,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Promo margin 12% | Backorder until 02/15 | Global Sourcing Co
+NI-N-0455,Nigeria,Home Appliances,Air Purifier Compact,145940.96,NGN,"HEPA H13, 3 speeds, 25m² coverage",Global Sourcing Co | VIP margin 25% | Low stock alert
+CA-O-0456,Canada,Personal Care,Electric Toothbrush,57.66,CAD,"Sonic, 3 modes, 2-week battery",Acme Electronics Ltd | Margin 22% | Backorder until 02/15
+CD-P-0457,Côte d'Ivoire,Solar & Power,Solar Inverter TS-9000-X,735959.36,XOF,"5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",EuroTech Suppliers | Margin 22% | Fulfilled from NL depot
+SA-Q-0458,South Africa,Audio,Wireless Bluetooth Earbuds,601.74,ZAR,"ANC, 24h battery, IPX5, USB-C",Warehouse A-12 | Global Sourcing Co | Bulk discount applies 15%
+KE-R-0459,Kenya,Audio,Bluetooth Speaker,6415.5,KES,"20W, waterproof IPX7, 15h playback",Nordic Wholesale | Bulk discount applies 15% | Warehouse A-12
+CD-S-0460,Côte d'Ivoire,Kitchen Appliances,Coffee Maker Drip,25697.85,XOF,"12-cup, programmable, thermal carafe",Backorder until 02/15 | Target margin 18% | Pacific Imports Inc
+FR-T-0461,France,Wearables,Fitness Tracker Band,26.75,EUR,"Steps, sleep, HR, 14-day battery",Promo margin 12% | Warehouse A-12 | Pacific Imports Inc
+NI-U-0462,Nigeria,Kitchen Appliances,Coffee Maker Drip,65475.36,NGN,"12-cup, programmable, thermal carafe",Promo margin 12% | EuroTech Suppliers | Stock in WH3 Berlin
+UK-V-0463,United Kingdom,Computing,"Tablet 10""",179.71,GBP,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Low stock alert | VIP margin 25% | Nordic Wholesale
+KE-W-0464,Kenya,Kitchen Appliances,Smart Kettle Pro,5926.81,KES,"1.7L, 3000W, boil-dry protection, LED display",Margin 22% | Nordic Wholesale | Low stock alert
+NI-X-0465,Nigeria,Wearables,Fitness Tracker Band,44256.68,NGN,"Steps, sleep, HR, 14-day battery",Target margin 18% | Stock in WH3 Berlin | Global Sourcing Co
+UK-Y-0466,United Kingdom,Kitchen Appliances,Smart Kettle Pro,40.8,GBP,"1.7L, 3000W, boil-dry protection, LED display",EuroTech Suppliers | Target margin 18% | Stock in WH3 Berlin
+GE-Z-0467,Germany,Kitchen Appliances,Smart Kettle Pro,40.05,EUR,"1.7L, 3000W, boil-dry protection, LED display",Africa Direct Trading | Low stock alert | VIP margin 25%
+NE-A-0468,Netherlands,Wearables,Fitness Tracker Band,30.24,EUR,"Steps, sleep, HR, 14-day battery",Acme Electronics Ltd | Promo margin 12% | Low stock alert
+NI-B-0469,Nigeria,Computing,"Tablet 10""",302258.93,NGN,"128GB, 10.1"" FHD, 4GB RAM, WiFi",Promo margin 12% | Low stock alert | Africa Direct Trading
+US-C-0470,United States,Audio,Wireless Bluetooth Earbuds,38.75,USD,"ANC, 24h battery, IPX5, USB-C",Africa Direct Trading | Backorder until 02/15 | Bulk discount applies 15%
+CA-D-0471,Canada,Home Appliances,Electric Fan Tower,75.27,CAD,"Oscillating, 3 speeds, remote, timer",EuroTech Suppliers | Stock in WH3 Berlin | Margin 22%
+CD-E-0472,Côte d'Ivoire,Audio,Bluetooth Speaker,27583.39,XOF,"20W, waterproof IPX7, 15h playback",Pacific Imports Inc | Target margin 18% | Warehouse A-12
+KE-F-0473,Kenya,Kitchen Appliances,Coffee Maker Drip,4640.48,KES,"12-cup, programmable, thermal carafe",Fulfilled from NL depot | Pacific Imports Inc | Bulk discount applies 15%
+SA-G-0474,South Africa,Lighting,LED Desk Lamp,509.09,ZAR,"Dimmable, USB port, 5 brightness levels",Nordic Wholesale | Fulfilled from NL depot | VIP margin 25%
+US-H-0475,United States,Kitchen Appliances,Smart Kettle Pro,44.44,USD,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | VIP margin 25% | Backorder until 02/15
+GH-I-0476,Ghana,Power & Batteries,Portable Power Bank 20K,300.98,GHS,"20000mAh, dual USB, 18W PD",Promo margin 12% | Backorder until 02/15 | Nordic Wholesale
+CD-J-0477,Côte d'Ivoire,Wearables,Smart Watch Sport,60076.93,XOF,"GPS, heart rate, 5ATM, 7-day battery",Stock in WH3 Berlin | Margin 22% | Global Sourcing Co
+GH-K-0478,Ghana,Kitchen Appliances,Coffee Maker Drip,518.19,GHS,"12-cup, programmable, thermal carafe",Pacific Imports Inc | Bulk discount applies 15% | Backorder until 02/15
+CA-L-0479,Canada,Audio,Wireless Bluetooth Earbuds,51.7,CAD,"ANC, 24h battery, IPX5, USB-C",Global Sourcing Co | Bulk discount applies 15% | Backorder until 02/15
+CD-M-0480,Côte d'Ivoire,Home Appliances,Electric Fan Tower,33302.13,XOF,"Oscillating, 3 speeds, remote, timer",Stock in WH3 Berlin | Pacific Imports Inc | Bulk discount applies 15%
+KE-N-0481,Kenya,TV & Display,LED TV 55 inch,59173.24,KES,"55"" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi",Promo margin 12% | Stock in WH3 Berlin | Global Sourcing Co
+CA-O-0482,Canada,Wearables,Smart Watch Sport,121.5,CAD,"GPS, heart rate, 5ATM, 7-day battery",Promo margin 12% | EuroTech Suppliers | Warehouse A-12
+FR-P-0483,France,Lighting,LED Desk Lamp,27.81,EUR,"Dimmable, USB port, 5 brightness levels",Africa Direct Trading | Stock in WH3 Berlin | Margin 22%
+CA-Q-0484,Canada,Computing,Webcam HD Pro,77.4,CAD,"1080p 60fps, built-in mic, auto-focus",Backorder until 02/15 | EuroTech Suppliers | Bulk discount applies 15%
+FR-R-0485,France,Personal Care,Electric Toothbrush,41.94,EUR,"Sonic, 3 modes, 2-week battery",VIP margin 25% | Low stock alert | Africa Direct Trading
+NE-S-0486,Netherlands,Kitchen Appliances,Coffee Maker Drip,37.14,EUR,"12-cup, programmable, thermal carafe",Fulfilled from NL depot | Africa Direct Trading | Promo margin 12%
+FR-T-0487,France,Kitchen Appliances,Smart Kettle Pro,42.11,EUR,"1.7L, 3000W, boil-dry protection, LED display",Pacific Imports Inc | Fulfilled from NL depot | Bulk discount applies 15%
+SA-U-0488,South Africa,Lighting,LED Desk Lamp,530.94,ZAR,"Dimmable, USB port, 5 brightness levels",Global Sourcing Co | Low stock alert | Margin 22%
+CA-V-0489,Canada,Lighting,LED Desk Lamp,41.67,CAD,"Dimmable, USB port, 5 brightness levels",Nordic Wholesale | Fulfilled from NL depot | VIP margin 25%
+UK-W-0490,United Kingdom,Audio,Bluetooth Speaker,41.61,GBP,"20W, waterproof IPX7, 15h playback",Stock in WH3 Berlin | Africa Direct Trading | Promo margin 12%
+CA-X-0491,Canada,Home Appliances,Electric Fan Tower,80.01,CAD,"Oscillating, 3 speeds, remote, timer",Low stock alert | Nordic Wholesale | Bulk discount applies 15%
+CA-Y-0492,Canada,Power & Batteries,Portable Power Bank 20K,34.3,CAD,"20000mAh, dual USB, 18W PD",Target margin 18% | EuroTech Suppliers | Fulfilled from NL depot
+CA-Z-0493,Canada,Home Appliances,Air Purifier Compact,139.65,CAD,"HEPA H13, 3 speeds, 25m² coverage",Global Sourcing Co | Bulk discount applies 15% | Stock in WH3 Berlin
+UK-A-0494,United Kingdom,Home Appliances,Air Purifier Compact,76.88,GBP,"HEPA H13, 3 speeds, 25m² coverage",Backorder until 02/15 | Bulk discount applies 15% | Africa Direct Trading
+GH-B-0495,Ghana,Kitchen Appliances,Smart Kettle Pro,587.5,GHS,"1.7L, 3000W, boil-dry protection, LED display",Global Sourcing Co | Promo margin 12% | Warehouse A-12
+NE-C-0496,Netherlands,Personal Care,Electric Toothbrush,39.9,EUR,"Sonic, 3 modes, 2-week battery",Global Sourcing Co | Stock in WH3 Berlin | Target margin 18%
+US-D-0497,United States,Wearables,Fitness Tracker Band,28.38,USD,"Steps, sleep, HR, 14-day battery",Nordic Wholesale | Warehouse A-12 | Target margin 18%
+CA-E-0498,Canada,Power & Batteries,Portable Power Bank 20K,34.43,CAD,"20000mAh, dual USB, 18W PD",Backorder until 02/15 | Acme Electronics Ltd | Margin 22%
+CD-F-0499,Côte d'Ivoire,Power & Batteries,Portable Power Bank 20K,15718.73,XOF,"20000mAh, dual USB, 18W PD",Acme Electronics Ltd | Low stock alert | Target margin 18%
