@@ -68,3 +68,20 @@ typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.6.3
 uvicorn==0.41.0
+
+# For the RAG pipeline
+fastapi
+uvicorn
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+streamlit
+pydantic
+requests
+scikit-learn
+rank_bm25
+openai
+python-multipart
+openpyxl
+python-dotenv
