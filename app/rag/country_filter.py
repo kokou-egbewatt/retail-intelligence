@@ -81,8 +81,10 @@ def resolve_countries(query: str, provided_country: Optional[str] = None) -> Lis
     - Else: extract from query via extract_countries_from_query.
     Returns list of canonical country names (empty = no country filter).
     """
+    countries = []
     if provided_country and str(provided_country).strip():
         raw = str(provided_country).strip()
         parts = re.split(r"\s+and\s+|\s*,\s*", raw, flags=re.I)
-        return [_normalize_country(p) for p in parts if p.strip()]
-    return extract_countries_from_query(query)
+        countries.extend([_normalize_country(p) for p in parts if p.strip()])
+    countries.extend(extract_countries_from_query(query))
+    return countries
