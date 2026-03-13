@@ -4,14 +4,45 @@ Build FAISS vector index from cleaned product data.
 - Embeds searchable_text with sentence-transformers
 - Stores vectors in FAISS and metadata (country, product_id, category) in JSON
 - Saves under vector_store/faiss_index
+
+Offline: set HF_HUB_OFFLINE=1 or TRANSFORMERS_OFFLINE=1 to load the model from cache only
+(no network). Requires the model to have been downloaded once (e.g. on a machine with internet).
 """
 import json
+import os
 from pathlib import Path
 
 import faiss
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
+
+MODEL_NAME = "all-MiniLM-L6-v2"
+
+
+def _load_model():
+    """Load SentenceTransformer model; use cache only when HF_HUB_OFFLINE/TRANSFORMERS_OFFLINE=1 or after network error."""
+    offline = os.environ.get("HF_HUB_OFFLINE", "").strip() == "1" or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+    try:
+        if offline:
+            print("Loading sentence-transformers model (offline, from cache)...")
+            return SentenceTransformer(MODEL_NAME, local_files_only=True)
+        print("Loading sentence-transformers model...")
+        return SentenceTransformer(MODEL_NAME)
+    except Exception as e:
+        err_str = str(e).lower()
+        if offline or "nodename nor servname" in err_str or "connection" in err_str or "network" in err_str or "client has been closed" in err_str:
+            print("Network unavailable or offline. Trying to load model from cache only...")
+            try:
+                return SentenceTransformer(MODEL_NAME, local_files_only=True)
+            except Exception as e2:
+                raise RuntimeError(
+                    "Could not load the embedding model. Either:\n"
+                    "  1. Run this script once with internet so the model is downloaded to cache, or\n"
+                    "  2. Set HF_HUB_OFFLINE=1 and ensure the model is already in cache (e.g. ~/.cache/huggingface/).\n"
+                    f"Original error: {e}\nFallback error: {e2}"
+                ) from e2
+        raise
 
 
 def main():
@@ -28,8 +59,7 @@ def main():
     df = pd.read_csv(clean_path)
     texts = df["searchable_text"].fillna("").astype(str).tolist()
 
-    print("Loading sentence-transformers model...")
-    model = SentenceTransformer("all-MiniLM-L6-v2")
+    model = _load_model()
     print("Creating embeddings...")
     embeddings = model.encode(texts, show_progress_bar=True)
     embeddings = np.array(embeddings, dtype=np.float32)
