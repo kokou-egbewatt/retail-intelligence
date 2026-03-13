@@ -1,4 +1,4 @@
-
+import os
 import json
 from pathlib import Path
 from typing import Any, List, Optional
@@ -9,6 +9,23 @@ from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer
 
 from app.rag.metadata_filter import filter_docs_metadata
+
+
+def _is_offline_mode() -> bool:
+    return os.environ.get("HF_HUB_OFFLINE", "").strip() == "1" or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+
+
+def _load_sentence_transformer(model_name: str):
+    """Load model; use cache only when offline env is set or on connection error."""
+    try:
+        if _is_offline_mode():
+            return SentenceTransformer(model_name, local_files_only=True)
+        return SentenceTransformer(model_name)
+    except Exception as e:
+        err_str = str(e).lower()
+        if "nodename nor servname" in err_str or "connection" in err_str or "network" in err_str or "client has been closed" in err_str:
+            return SentenceTransformer(model_name, local_files_only=True)
+        raise
 
 # Default index path relative to project root
 def _default_index_path() -> Path:
