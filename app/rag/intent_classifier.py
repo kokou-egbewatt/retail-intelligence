@@ -10,6 +10,7 @@ from typing import Optional
 
 class Intent(str, Enum):
     PRODUCT_INFO = "product_info"       # specs, features, description
+    PRICE_COMPARISON = "price_comparison"  # compare prices across regions/countries
     PRICING = "pricing"                 # price, cost, how much
     WARRANTY_POLICY = "warranty_policy" # warranty, return, guarantee
     AVAILABILITY = "availability"       # in stock, available
@@ -28,6 +29,10 @@ INTENT_KEYWORDS = {
     Intent.WARRANTY_POLICY: [
         "warranty", "warranties", "guarantee", "return policy", "coverage",
         "policy", "policies", "refund", "replacement",
+    ],
+    Intent.PRICE_COMPARISON: [
+        "compare", "comparison", "vs", "versus", "between", "difference",
+        "compared to", "compare price", "compare prices", "side by side",
     ],
     Intent.PRICING: [
         "price", "prices", "cost", "how much", "costs", "pricing",
@@ -91,7 +96,7 @@ def classify_intent(query: str) -> IntentResult:
                 message="I can only help with GlobalCart products, pricing, warranty, and availability.",
             )
 
-    # 3. In-scope intents (first match)
+    # 3. In-scope intents (first match; PRICE_COMPARISON before PRICING so "compare price" is comparison)
     for intent, keywords in INTENT_KEYWORDS.items():
         if intent in (Intent.RESTRICTED,):
             continue

@@ -41,13 +41,13 @@ def extract_country_from_query(query: str) -> Optional[str]:
 def extract_countries_from_query(query: str) -> List[str]:
     """
     Extract one or more countries from the query.
-    Handles: "in Ghana and Nigeria", "Ghana, Nigeria", "from Ghana and Nigeria", etc.
+    Handles: "in Ghana and Nigeria", "Ghana, Nigeria", "Ghana vs Nigeria", "from Ghana and Nigeria", etc.
     Returns a list of canonical country names (may be empty).
     """
     q = query.strip()
     found: List[str] = []
-    # Split on " and " or "," to get segments that might contain country names
-    for part in re.split(r"\s+and\s+|\s*,\s*", q, flags=re.I):
+    # Split on " and ", ",", " vs ", " versus " so comparison phrases yield both countries
+    for part in re.split(r"\s+and\s+|\s*,\s*|\s+vs\.?\s+|\s+versus\s+", q, flags=re.I):
         part = part.strip()
         for c in COUNTRIES:
             # Match "Ghana", "in Ghana", "from Ghana", "in the Ghana" (allow "the")
@@ -77,7 +77,8 @@ def resolve_country(query: str, provided_country: Optional[str]) -> Optional[str
 def resolve_countries(query: str, provided_country: Optional[str] = None) -> List[str]:
     """
     Resolve to a list of countries for filtering.
-    - If provided_country is set: split by " and " or "," and normalize (e.g. "Ghana, Nigeria" -> ["Ghana", "Nigeria"]).
+    - If provided_country is set: split by " and " or "," and normalize, then merge with any
+      countries mentioned in the query (so "Ghana" in UI + "compare with Nigeria" gives both).
     - Else: extract from query via extract_countries_from_query.
     Returns list of canonical country names (empty = no country filter).
     """

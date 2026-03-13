@@ -30,6 +30,10 @@ def build_rag_prompt(
     if intent and intent != Intent.GENERIC:
         intent_hint = {
             Intent.PRICING: "Focus on prices and currency only.",
+            Intent.PRICE_COMPARISON: (
+                "The user wants to compare product or item prices across regions. "
+                "Present prices for each country clearly (e.g. by country or side by side) so they can compare."
+            ),
             Intent.PRODUCT_INFO: "Focus on specs, features, and product details.",
             Intent.WARRANTY_POLICY: "Focus on warranty, return policy, and coverage.",
             Intent.AVAILABILITY: "Focus on availability and stock.",
@@ -39,6 +43,8 @@ def build_rag_prompt(
             lines.append(f"Stay on track: {intent_hint}")
     if countries and len(countries) > 1:
         lines.append(f"User asked about these regions: {', '.join(countries)}. For each region, give the price or details from the context for that country only.")
+        if intent == Intent.PRICE_COMPARISON:
+            lines.append("Format the answer as a comparison: show the same product/item with its price and currency per country so the user can compare.")
     elif countries and len(countries) == 1:
         lines.append(f"User region: {countries[0]}. Use only pricing and availability for this region.")
     elif country:
