@@ -3,14 +3,14 @@
 <h1 align="center">Global Retail Intelligence Engine
 <br>
 <!-- Version Badge - update on release (must match CHANGELOG.md) -->
-<a href="https://github.com/kokou-egbewatt/re-llm_engineering/tags">
-    <img src="https://img.shields.io/github/v/tag/kokou-egbewatt/re-llm_engineering?label=version" alt="Version">
+<a href="https://github.com/kokou-egbewatt/retail-intelligence/tags">
+    <img src="https://img.shields.io/github/v/tag/kokou-egbewatt/retail-intelligence?label=version" alt="Version">
 </a>
 </h1>
 <p align="center">
   <i>Advanced RAG pipeline for product search, regional pricing, policies, and secure querying across 11 markets.</i><br><br>
-  <a href="https://github.com/kokou-egbewatt/re-llm_engineering/actions/workflows/ci.yml">
-    <img src="https://github.com/kokou-egbewatt/re-llm_engineering/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+  <a href="https://github.com/kokou-egbewatt/retail-intelligence/actions/workflows/ci.yml">
+    <img src="https://github.com/kokou-egbewatt/retail-intelligence/actions/workflows/ci.yml/badge.svg" alt="CI"/>
   </a>
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
