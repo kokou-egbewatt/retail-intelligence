@@ -189,7 +189,7 @@ retail-intelligence/
 │
 ├── pipelines/
 │   ├── ingestion/
-│   │   ├── clean_data.py         # Strip Internal_Notes, build searchable_text
+│   │   ├── clean_data.py         # Strip Internal_Notes, build internal_notes
 │   │   └── ingest_task_data.py   # Merge .xlsx task data
 │   └── indexing/
 │       └── build_vector_index.py # Embed → FAISS + metadata.json
