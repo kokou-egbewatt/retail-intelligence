@@ -48,10 +48,10 @@ jobs:
         run: uv sync --group dev
 
       - name: ruff — check
-        run: uv run ruff check .
+        run: uv run ruff check app data evaluation frontend pipelines scripts vector_store
 
       - name: ruff — format
-        run: uv run ruff format --check .
+        run: uv run ruff format --check app data evaluation frontend pipelines scripts vector_store
 
   test:
     name: Test

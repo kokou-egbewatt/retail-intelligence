@@ -2,6 +2,7 @@
 Build the RAG prompt: system + context (retrieved docs) + user query for the LLM.
 Supports single region or multiple (e.g. Ghana and Nigeria) so the LLM can answer per country.
 """
+
 from typing import Any, List, Optional
 
 from app.rag.intent_classifier import Intent
@@ -42,13 +43,21 @@ def build_rag_prompt(
         if intent_hint:
             lines.append(f"Stay on track: {intent_hint}")
     if countries and len(countries) > 1:
-        lines.append(f"User asked about these regions: {', '.join(countries)}. For each region, give the price or details from the context for that country only.")
+        lines.append(
+            f"User asked about these regions: {', '.join(countries)}. For each region, give the price or details from the context for that country only."
+        )
         if intent == Intent.PRICE_COMPARISON:
-            lines.append("Format the answer as a comparison: show the same product/item with its price and currency per country so the user can compare.")
+            lines.append(
+                "Format the answer as a comparison: show the same product/item with its price and currency per country so the user can compare."
+            )
     elif countries and len(countries) == 1:
-        lines.append(f"User region: {countries[0]}. Use only pricing and availability for this region.")
+        lines.append(
+            f"User region: {countries[0]}. Use only pricing and availability for this region."
+        )
     elif country:
-        lines.append(f"User region: {country}. Use only pricing and availability for this region.")
+        lines.append(
+            f"User region: {country}. Use only pricing and availability for this region."
+        )
     lines.append("")
     lines.append("--- Context ---")
     for i, doc in enumerate(context_docs[:5], 1):

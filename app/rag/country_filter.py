@@ -3,15 +3,28 @@ Extract country or countries from user query or use provided value.
 Used by the RAG pipeline for metadata filtering.
 Supports single country or multiple (e.g. "Ghana and Nigeria", "in Ghana, Nigeria").
 """
+
 import re
 from typing import List, Optional
 
 # Common country names (subset) for simple extraction; normalize to canonical form
 COUNTRIES = [
-    "Ghana", "Nigeria", "Côte d'Ivoire", "Ivory Coast", "Cote d'Ivoire",
-    "South Africa", "Kenya",
-    "Germany", "United Kingdom", "UK", "France", "Netherlands",
-    "United States", "USA", "US", "Canada",
+    "Ghana",
+    "Nigeria",
+    "Côte d'Ivoire",
+    "Ivory Coast",
+    "Cote d'Ivoire",
+    "South Africa",
+    "Kenya",
+    "Germany",
+    "United Kingdom",
+    "UK",
+    "France",
+    "Netherlands",
+    "United States",
+    "USA",
+    "US",
+    "Canada",
 ]
 # Map aliases to canonical name for consistency
 COUNTRY_ALIAS = {
@@ -51,7 +64,9 @@ def extract_countries_from_query(query: str) -> List[str]:
         part = part.strip()
         for c in COUNTRIES:
             # Match "Ghana", "in Ghana", "from Ghana", "in the Ghana" (allow "the")
-            if re.search(rf"(?:^|\s)(?:in|from|in\s+the)?\s*{re.escape(c)}\b", part, re.I):
+            if re.search(
+                rf"(?:^|\s)(?:in|from|in\s+the)?\s*{re.escape(c)}\b", part, re.I
+            ):
                 canonical = _normalize_country(c)
                 if canonical not in found:
                     found.append(canonical)
@@ -60,7 +75,11 @@ def extract_countries_from_query(query: str) -> List[str]:
     if not found:
         single = None
         for c in COUNTRIES:
-            if re.search(rf"\b(from|in|shopping\s+in|shopping\s+from|I\s+am\s+in)\s+{re.escape(c)}\b", q, re.I):
+            if re.search(
+                rf"\b(from|in|shopping\s+in|shopping\s+from|I\s+am\s+in)\s+{re.escape(c)}\b",
+                q,
+                re.I,
+            ):
                 single = _normalize_country(c)
                 break
         if single:

@@ -5,8 +5,10 @@ Data cleaning pipeline for the Global Retail Intelligence Engine.
 - Builds a searchable text field from Item_Name + Technical_Specs.
 - Saves to data/processed/products_clean.csv
 """
-import pandas as pd
+
 from pathlib import Path
+
+import pandas as pd
 
 
 def standardize_country(s: str) -> str:
@@ -54,8 +56,9 @@ def main():
 
     # 3. Searchable text field for retrieval
     df["searchable_text"] = (
-        df["Item_Name"].fillna("").astype(str) + " " +
-        df["Technical_Specs"].fillna("").astype(str)
+        df["Item_Name"].fillna("").astype(str)
+        + " "
+        + df["Technical_Specs"].fillna("").astype(str)
     ).str.strip()
 
     df.to_csv(out_path, index=False, encoding="utf-8")

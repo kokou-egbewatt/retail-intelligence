@@ -3,6 +3,7 @@ Prompt injection detection: detect attempts to override instructions
 (e.g. "ignore previous instructions", "disregard", "new instructions")
 and block the request with a refusal.
 """
+
 import re
 from dataclasses import dataclass
 from typing import Optional

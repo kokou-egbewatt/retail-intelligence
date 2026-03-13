@@ -1,4 +1,5 @@
 import os
+
 import streamlit as st
 
 # Default API URL (override with env STREAMLIT_CHAT_API_URL)
@@ -7,6 +8,7 @@ API_URL = os.environ.get("STREAMLIT_CHAT_API_URL", "http://localhost:8000")
 
 def call_chat_api(query: str, country: str | None) -> str:
     import requests
+
     try:
         r = requests.post(
             f"{API_URL}/api/chat",
@@ -20,9 +22,13 @@ def call_chat_api(query: str, country: str | None) -> str:
 
 
 def main():
-    st.set_page_config(page_title="Global Retail Assistant", page_icon="🛒", layout="centered")
+    st.set_page_config(
+        page_title="Global Retail Assistant", page_icon="🛒", layout="centered"
+    )
     st.title("🛒 Global Retail Intelligence Engine")
-    st.caption("Ask about products, pricing by region, and warranty. Choose your country for accurate results.")
+    st.caption(
+        "Ask about products, pricing by region, and warranty. Choose your country for accurate results."
+    )
 
     country = st.selectbox(
         "Your country (for regional pricing)",
@@ -62,7 +68,9 @@ def main():
     st.sidebar.markdown("### How to run")
     st.sidebar.markdown("1. Start API: `uvicorn app.main:app --reload`")
     st.sidebar.markdown("2. Run this UI: `streamlit run frontend/chat_app.py`")
-    st.sidebar.markdown("3. Add `OPENROUTER_API_KEY` to `.env` for full LLM answers (get a key at [openrouter.ai](https://openrouter.ai)).")
+    st.sidebar.markdown(
+        "3. Add `OPENROUTER_API_KEY` to `.env` for full LLM answers (get a key at [openrouter.ai](https://openrouter.ai))."
+    )
 
 
 if __name__ == "__main__":

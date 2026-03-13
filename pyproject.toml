@@ -16,6 +16,7 @@ dependencies = [
     "openai>=1.30",
     "python-dotenv>=1.0",
     "gradio>=6.9.0",
+    "ruff>=0.15.6",
 ]
 
 [project.scripts]

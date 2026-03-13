@@ -8,6 +8,7 @@ Build FAISS vector index from cleaned product data.
 Offline: set HF_HUB_OFFLINE=1 or TRANSFORMERS_OFFLINE=1 to load the model from cache only
 (no network). Requires the model to have been downloaded once (e.g. on a machine with internet).
 """
+
 import json
 import os
 from pathlib import Path
@@ -22,7 +23,10 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 
 def _load_model():
     """Load SentenceTransformer model; use cache only when HF_HUB_OFFLINE/TRANSFORMERS_OFFLINE=1 or after network error."""
-    offline = os.environ.get("HF_HUB_OFFLINE", "").strip() == "1" or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+    offline = (
+        os.environ.get("HF_HUB_OFFLINE", "").strip() == "1"
+        or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+    )
     try:
         if offline:
             print("Loading sentence-transformers model (offline, from cache)...")
@@ -31,8 +35,16 @@ def _load_model():
         return SentenceTransformer(MODEL_NAME)
     except Exception as e:
         err_str = str(e).lower()
-        if offline or "nodename nor servname" in err_str or "connection" in err_str or "network" in err_str or "client has been closed" in err_str:
-            print("Network unavailable or offline. Trying to load model from cache only...")
+        if (
+            offline
+            or "nodename nor servname" in err_str
+            or "connection" in err_str
+            or "network" in err_str
+            or "client has been closed" in err_str
+        ):
+            print(
+                "Network unavailable or offline. Trying to load model from cache only..."
+            )
             try:
                 return SentenceTransformer(MODEL_NAME, local_files_only=True)
             except Exception as e2:
@@ -72,16 +84,18 @@ def main():
     # Metadata for filtering and display
     metadata = []
     for _, row in df.iterrows():
-        metadata.append({
-            "country": str(row.get("Country", "")).strip(),
-            "product_id": str(row.get("Product_ID", "")).strip(),
-            "category": str(row.get("Category", "")).strip(),
-            "item_name": str(row.get("Item_Name", "")).strip(),
-            "price_local": row.get("Price_Local"),
-            "currency": str(row.get("Currency", "")).strip(),
-            "technical_specs": str(row.get("Technical_Specs", "")).strip(),
-            "internal_notes": str(row.get("Internal_Notes", "")).strip(),
-        })
+        metadata.append(
+            {
+                "country": str(row.get("Country", "")).strip(),
+                "product_id": str(row.get("Product_ID", "")).strip(),
+                "category": str(row.get("Category", "")).strip(),
+                "item_name": str(row.get("Item_Name", "")).strip(),
+                "price_local": row.get("Price_Local"),
+                "currency": str(row.get("Currency", "")).strip(),
+                "technical_specs": str(row.get("Technical_Specs", "")).strip(),
+                "internal_notes": str(row.get("Internal_Notes", "")).strip(),
+            }
+        )
 
     faiss.write_index(index, str(store_dir / "index.faiss"))
     with open(store_dir / "metadata.json", "w", encoding="utf-8") as f:

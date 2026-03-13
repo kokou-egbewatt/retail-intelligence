@@ -4,9 +4,10 @@ Outputs data/raw/task1_data.csv (same schema as products_raw). clean_data.py mer
 this with products_raw so the index contains task SKUs (GH-K-001, ZA-S-900, UK-W-202, etc.)
 and Policy rows for hierarchical retrieval.
 """
-import pandas as pd
+
 from pathlib import Path
 
+import pandas as pd
 
 # Extra rows so evaluation tests have data: NL-L-5042 (Technical Precision), Netherlands warranty (Policy Summary)
 EXTRA_ROWS = [
@@ -40,7 +41,16 @@ def main():
     raw_dir.mkdir(parents=True, exist_ok=True)
     out_path = raw_dir / "task1_data.csv"
 
-    cols = ["Product_ID", "Country", "Category", "Item_Name", "Price_Local", "Currency", "Technical_Specs", "Internal_Notes"]
+    cols = [
+        "Product_ID",
+        "Country",
+        "Category",
+        "Item_Name",
+        "Price_Local",
+        "Currency",
+        "Technical_Specs",
+        "Internal_Notes",
+    ]
 
     if xlsx_path.exists():
         df = pd.read_excel(xlsx_path, sheet_name=0, engine="openpyxl")

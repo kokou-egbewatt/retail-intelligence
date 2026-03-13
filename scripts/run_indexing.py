@@ -1,15 +1,16 @@
 """
 Run the full indexing pipeline: ensure clean data exists, then build FAISS index.
 """
+
 import sys
 from pathlib import Path
+
+from pipelines.indexing.build_vector_index import main as index_main
+from pipelines.ingestion.clean_data import main as clean_main
 
 # Add project root
 project_root = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(project_root))
-
-from pipelines.ingestion.clean_data import main as clean_main
-from pipelines.indexing.build_vector_index import main as index_main
 
 
 def main():
@@ -17,6 +18,7 @@ def main():
     task_xlsx = project_root / "Task 1_ Global Retail Intelligence Engine Data.xlsx"
     if task_xlsx.exists():
         from pipelines.ingestion.ingest_task_data import main as ingest_task_main
+
         ingest_task_main()
         print("Re-running clean to merge task data...")
         clean_main()

@@ -3,20 +3,23 @@ Metadata Filtering: strict document access restrictions and security.
 - Only allow specific metadata fields to leave the retriever (no internal/raw fields).
 - Enforce filter dimensions (country, category) before returning docs.
 """
+
 from typing import Any, Dict, List, Optional
 
 # Fields allowed to be returned to the pipeline/LLM. Anything else is stripped.
-ALLOWED_RETURN_FIELDS = frozenset({
-    "country",
-    "product_id",
-    "category",
-    "item_name",
-    "price_local",
-    "currency",
-    "technical_specs",
-    "internal_notes",
-    "score",  # added by retriever
-})
+ALLOWED_RETURN_FIELDS = frozenset(
+    {
+        "country",
+        "product_id",
+        "category",
+        "item_name",
+        "price_local",
+        "currency",
+        "technical_specs",
+        "internal_notes",
+        "score",  # added by retriever
+    }
+)
 
 # Categories that are allowed in retrieval (e.g. Policy for warranty queries).
 # If None, no category allow-list (all categories allowed).
@@ -36,7 +39,9 @@ def filter_docs_metadata(docs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return [filter_doc_metadata(d) for d in docs]
 
 
-def allow_category(doc: Dict[str, Any], allowed_categories: Optional[frozenset[str]]) -> bool:
+def allow_category(
+    doc: Dict[str, Any], allowed_categories: Optional[frozenset[str]]
+) -> bool:
     """
     Return True if the doc is allowed by category filter.
     If allowed_categories is None, always True.

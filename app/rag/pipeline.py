@@ -3,10 +3,11 @@ Full RAG pipeline: query → country detection → security guardrails → inten
 → query reformulation → query decomposition → hybrid retrieval (with metadata filtering)
 → context build → LLM → grounded response. Optional response sanitization.
 """
+
 import os
 import re
 from dataclasses import dataclass
-from typing import Any, List, Optional
+from typing import List, Optional
 
 from app.guardrails.prompt_injection import detect_prompt_injection
 from app.guardrails.security_filter import check_restricted_data
@@ -37,6 +38,7 @@ def _call_llm(prompt: str) -> str:
         )
     try:
         from openai import OpenAI
+
         if openrouter_key and openrouter_key.strip():
             # OpenRouter: OpenAI-compatible API at openrouter.ai
             client = OpenAI(
@@ -81,8 +83,10 @@ def _merge_retrieval_results(
     for lst in result_lists:
         for doc in lst:
             doc_id = doc.get(id_key) or id(doc)
-            score = doc.get("score", 0.0)
-            if doc_id not in by_id or (doc.get("score") or 0) > (by_id[doc_id].get("score") or 0):
+            _ = doc.get("score", 0.0)  # score
+            if doc_id not in by_id or (doc.get("score") or 0) > (
+                by_id[doc_id].get("score") or 0
+            ):
                 by_id[doc_id] = dict(doc)
     # Sort by score descending, take top_k
     ordered = sorted(by_id.values(), key=lambda d: -(d.get("score") or 0))
