@@ -1,6 +1,7 @@
 """
 Chat API: POST /chat - accepts query and optional country, returns RAG response.
 """
+
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
 

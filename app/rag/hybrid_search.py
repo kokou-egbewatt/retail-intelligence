@@ -1,5 +1,5 @@
-import os
 import json
+import os
 from pathlib import Path
 from typing import Any, List, Optional
 
@@ -12,7 +12,10 @@ from app.rag.metadata_filter import filter_docs_metadata
 
 
 def _is_offline_mode() -> bool:
-    return os.environ.get("HF_HUB_OFFLINE", "").strip() == "1" or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+    return (
+        os.environ.get("HF_HUB_OFFLINE", "").strip() == "1"
+        or os.environ.get("TRANSFORMERS_OFFLINE", "").strip() == "1"
+    )
 
 
 def _load_sentence_transformer(model_name: str):
@@ -23,13 +26,21 @@ def _load_sentence_transformer(model_name: str):
         return SentenceTransformer(model_name)
     except Exception as e:
         err_str = str(e).lower()
-        if "nodename nor servname" in err_str or "connection" in err_str or "network" in err_str or "client has been closed" in err_str:
+        if (
+            "nodename nor servname" in err_str
+            or "connection" in err_str
+            or "network" in err_str
+            or "client has been closed" in err_str
+        ):
             return SentenceTransformer(model_name, local_files_only=True)
         raise
 
+
 # Default index path relative to project root
 def _default_index_path() -> Path:
-    return Path(__file__).resolve().parent.parent.parent / "vector_store" / "faiss_index"
+    return (
+        Path(__file__).resolve().parent.parent.parent / "vector_store" / "faiss_index"
+    )
 
 
 class HybridRetriever:
@@ -64,32 +75,41 @@ class HybridRetriever:
         self._tokenized_corpus = [doc.lower().split() for doc in corpus]
         self._bm25 = BM25Okapi(self._tokenized_corpus)
 
-    def _filter_by_country(self, indices: list[int], country: Optional[str]) -> list[int]:
+    def _filter_by_country(
+        self, indices: list[int], country: Optional[str]
+    ) -> list[int]:
         if not country or not country.strip():
             return indices
         country_lower = country.strip().lower()
         return [
-            i for i in indices
+            i
+            for i in indices
             if self._metadata[i].get("country", "").lower() == country_lower
         ]
 
-    def _filter_by_countries(self, indices: List[int], countries: Optional[List[str]]) -> List[int]:
+    def _filter_by_countries(
+        self, indices: List[int], countries: Optional[List[str]]
+    ) -> List[int]:
         """Keep only docs whose country is in the given list (any of Ghana, Nigeria, etc.)."""
         if not countries or not any(c and str(c).strip() for c in countries):
             return indices
         allowed = {str(c).strip().lower() for c in countries if c and str(c).strip()}
         return [
-            i for i in indices
+            i
+            for i in indices
             if self._metadata[i].get("country", "").lower() in allowed
         ]
 
-    def _filter_by_category(self, indices: List[int], allowed_categories: Optional[List[str]]) -> List[int]:
+    def _filter_by_category(
+        self, indices: List[int], allowed_categories: Optional[List[str]]
+    ) -> List[int]:
         """Keep only docs whose category is in allowed_categories (case-insensitive)."""
         if not allowed_categories:
             return indices
         allowed = {c.strip().lower() for c in allowed_categories if c}
         return [
-            i for i in indices
+            i
+            for i in indices
             if (self._metadata[i].get("category") or "").strip().lower() in allowed
         ]
 
@@ -130,7 +150,7 @@ class HybridRetriever:
         # BM25 search
         tokenized_query = query.lower().split()
         bm25_scores = self._bm25.get_scores(tokenized_query)
-        order_bm25 = np.argsort(bm25_scores)[::-1][: vector_k]
+        order_bm25 = np.argsort(bm25_scores)[::-1][:vector_k]
         indices_bm25 = order_bm25.tolist()
         scores_bm25_list = bm25_scores.tolist()
 
@@ -144,7 +164,11 @@ class HybridRetriever:
             rb = rank_bm25.get(idx, 1000)
             score = 1.0 / rv + 1.0 / rb
             # Hierarchical retrieval: boost Policy docs for policy-style queries
-            if prefer_policy and (self._metadata[idx].get("category") or "").strip().lower() == "policy":
+            if (
+                prefer_policy
+                and (self._metadata[idx].get("category") or "").strip().lower()
+                == "policy"
+            ):
                 score += 1.5
             fused.append((idx, score))
         fused.sort(key=lambda x: -x[1])
@@ -162,7 +186,9 @@ class HybridRetriever:
 
         if allowed_categories:
             # Apply category filter to full ordered list so we get enough matches
-            category_filtered = self._filter_by_category(ordered_indices, allowed_categories)
+            category_filtered = self._filter_by_category(
+                ordered_indices, allowed_categories
+            )
             if category_filtered:
                 filtered = category_filtered[:k]
             else:
@@ -174,7 +200,10 @@ class HybridRetriever:
             step = max(1, len(self._metadata) // k)
             fallback = [min(i * step, len(self._metadata) - 1) for i in range(k)]
             fallback = list(dict.fromkeys(fallback))[:k]  # unique, preserve order
-            filtered = filtered + [i for i in fallback if i not in filtered][: k - len(filtered)]
+            filtered = (
+                filtered
+                + [i for i in fallback if i not in filtered][: k - len(filtered)]
+            )
 
         results = []
         for idx in filtered:

@@ -3,6 +3,7 @@ Security guardrail: block requests that ask for restricted data
 (supplier, margin, internal notes, warehouse, profit, etc.)
 and return a safe refusal response.
 """
+
 import re
 from dataclasses import dataclass
 from typing import Optional

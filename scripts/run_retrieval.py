@@ -2,6 +2,7 @@
 Run retrieval against the FAISS+BM25 index: run a query (and optional country)
 and print top results. Use this to test the hybrid retriever without starting the API.
 """
+
 import os
 import sys
 from pathlib import Path
@@ -33,7 +34,9 @@ def main():
     results = retriever.search(query=query, country=country, top_k=5)
 
     for i, doc in enumerate(results, 1):
-        print(f"[{i}] {doc.get('item_name', '')} | {doc.get('country', '')} | {doc.get('price_local', '')} {doc.get('currency', '')}")
+        print(
+            f"[{i}] {doc.get('item_name', '')} | {doc.get('country', '')} | {doc.get('price_local', '')} {doc.get('currency', '')}"
+        )
         specs = (doc.get("technical_specs") or "")[:80]
         if len(doc.get("technical_specs") or "") > 80:
             specs += "..."

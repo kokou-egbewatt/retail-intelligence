@@ -1,6 +1,7 @@
 """
 Global Retail Intelligence Engine - FastAPI application.
 """
+
 from pathlib import Path
 
 from dotenv import load_dotenv

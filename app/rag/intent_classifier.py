@@ -2,6 +2,7 @@
 Intent Classification: classify user intent so the pipeline and LLM stay on track
 (product info, pricing, warranty, list products, restricted, out-of-scope).
 """
+
 import re
 from dataclasses import dataclass
 from enum import Enum
@@ -9,44 +10,90 @@ from typing import Optional
 
 
 class Intent(str, Enum):
-    PRODUCT_INFO = "product_info"       # specs, features, description
+    PRODUCT_INFO = "product_info"  # specs, features, description
     PRICE_COMPARISON = "price_comparison"  # compare prices across regions/countries
-    PRICING = "pricing"                 # price, cost, how much
-    WARRANTY_POLICY = "warranty_policy" # warranty, return, guarantee
-    AVAILABILITY = "availability"       # in stock, available
-    LIST_PRODUCTS = "list_products"    # give me N products, list, show products
-    GENERIC = "generic"                 # general product/catalog question
-    RESTRICTED = "restricted"           # supplier, margin, internal (block)
-    OUT_OF_SCOPE = "out_of_scope"       # off-topic (politely refuse)
+    PRICING = "pricing"  # price, cost, how much
+    WARRANTY_POLICY = "warranty_policy"  # warranty, return, guarantee
+    AVAILABILITY = "availability"  # in stock, available
+    LIST_PRODUCTS = "list_products"  # give me N products, list, show products
+    GENERIC = "generic"  # general product/catalog question
+    RESTRICTED = "restricted"  # supplier, margin, internal (block)
+    OUT_OF_SCOPE = "out_of_scope"  # off-topic (politely refuse)
 
 
 # Keywords per intent (order: more specific first; first match wins for blocking)
 INTENT_KEYWORDS = {
     Intent.RESTRICTED: [
-        "supplier", "margin", "internal notes", "warehouse", "profit",
-        "cost price", "wholesale", "confidential", "vendor name", "back office",
+        "supplier",
+        "margin",
+        "internal notes",
+        "warehouse",
+        "profit",
+        "cost price",
+        "wholesale",
+        "confidential",
+        "vendor name",
+        "back office",
     ],
     Intent.WARRANTY_POLICY: [
-        "warranty", "warranties", "guarantee", "return policy", "coverage",
-        "policy", "policies", "refund", "replacement",
+        "warranty",
+        "warranties",
+        "guarantee",
+        "return policy",
+        "coverage",
+        "policy",
+        "policies",
+        "refund",
+        "replacement",
     ],
     Intent.PRICE_COMPARISON: [
-        "compare", "comparison", "vs", "versus", "between", "difference",
-        "compared to", "compare price", "compare prices", "side by side",
+        "compare",
+        "comparison",
+        "vs",
+        "versus",
+        "between",
+        "difference",
+        "compared to",
+        "compare price",
+        "compare prices",
+        "side by side",
     ],
     Intent.PRICING: [
-        "price", "prices", "cost", "how much", "costs", "pricing",
+        "price",
+        "prices",
+        "cost",
+        "how much",
+        "costs",
+        "pricing",
     ],
     Intent.AVAILABILITY: [
-        "available", "availability", "in stock", "out of stock", "when in stock",
+        "available",
+        "availability",
+        "in stock",
+        "out of stock",
+        "when in stock",
     ],
     Intent.LIST_PRODUCTS: [
-        "list", "show me", "give me", "name some", "examples of",
-        "few products", "some products", "any products", "5 products", "10 products",
+        "list",
+        "show me",
+        "give me",
+        "name some",
+        "examples of",
+        "few products",
+        "some products",
+        "any products",
+        "5 products",
+        "10 products",
     ],
     Intent.PRODUCT_INFO: [
-        "specs", "specifications", "features", "technical", "description",
-        "what is", "tell me about", "details",
+        "specs",
+        "specifications",
+        "features",
+        "technical",
+        "description",
+        "what is",
+        "tell me about",
+        "details",
     ],
 }
 

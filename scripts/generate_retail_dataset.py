@@ -8,6 +8,7 @@ Usage:
   python scripts/generate_retail_dataset.py --records 500     # 500 records for testing
   python scripts/generate_retail_dataset.py --records 500 --output data/raw/products_test.csv
 """
+
 import argparse
 import csv
 import random
@@ -30,9 +31,24 @@ COUNTRIES = [
 
 # Electronics and kitchen product catalog with base prices in USD for scaling
 ELECTRONICS = [
-    ("LED TV 55 inch", "TV & Display", 450, "55\" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi"),
-    ("Solar Inverter TS-9000-X", "Solar & Power", 1200, "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking"),
-    ("Smart Kettle Pro", "Kitchen Appliances", 45, "1.7L, 3000W, boil-dry protection, LED display"),
+    (
+        "LED TV 55 inch",
+        "TV & Display",
+        450,
+        '55" FHD LED, Smart TV, 3x HDMI, USB, built-in WiFi',
+    ),
+    (
+        "Solar Inverter TS-9000-X",
+        "Solar & Power",
+        1200,
+        "5kW capacity, IP65 rated, 10-year warranty, MPPT tracking",
+    ),
+    (
+        "Smart Kettle Pro",
+        "Kitchen Appliances",
+        45,
+        "1.7L, 3000W, boil-dry protection, LED display",
+    ),
     ("Wireless Bluetooth Earbuds", "Audio", 35, "ANC, 24h battery, IPX5, USB-C"),
     ("LED Desk Lamp", "Lighting", 28, "Dimmable, USB port, 5 brightness levels"),
     ("Portable Power Bank 20K", "Power & Batteries", 25, "20000mAh, dual USB, 18W PD"),
@@ -40,26 +56,51 @@ ELECTRONICS = [
     ("Mechanical Keyboard", "Computing", 75, "Cherry MX, RGB, wired, UK layout"),
     ("Webcam HD Pro", "Computing", 55, "1080p 60fps, built-in mic, auto-focus"),
     ("Electric Toothbrush", "Personal Care", 42, "Sonic, 3 modes, 2-week battery"),
-    ("Air Purifier Compact", "Home Appliances", 95, "HEPA H13, 3 speeds, 25m² coverage"),
-    ("Coffee Maker Drip", "Kitchen Appliances", 38, "12-cup, programmable, thermal carafe"),
+    (
+        "Air Purifier Compact",
+        "Home Appliances",
+        95,
+        "HEPA H13, 3 speeds, 25m² coverage",
+    ),
+    (
+        "Coffee Maker Drip",
+        "Kitchen Appliances",
+        38,
+        "12-cup, programmable, thermal carafe",
+    ),
     ("Bluetooth Speaker", "Audio", 48, "20W, waterproof IPX7, 15h playback"),
-    ("Tablet 10\"", "Computing", 199, "128GB, 10.1\" FHD, 4GB RAM, WiFi"),
+    ('Tablet 10"', "Computing", 199, '128GB, 10.1" FHD, 4GB RAM, WiFi'),
     ("Fitness Tracker Band", "Wearables", 29, "Steps, sleep, HR, 14-day battery"),
-    ("Electric Fan Tower", "Home Appliances", 52, "Oscillating, 3 speeds, remote, timer"),
+    (
+        "Electric Fan Tower",
+        "Home Appliances",
+        52,
+        "Oscillating, 3 speeds, remote, timer",
+    ),
 ]
 
 # Internal notes templates (confidential - supplier names, margins, warehouse)
 SUPPLIER_NAMES = [
-    "Acme Electronics Ltd", "Global Sourcing Co", "Pacific Imports Inc",
-    "EuroTech Suppliers", "Africa Direct Trading", "Nordic Wholesale",
+    "Acme Electronics Ltd",
+    "Global Sourcing Co",
+    "Pacific Imports Inc",
+    "EuroTech Suppliers",
+    "Africa Direct Trading",
+    "Nordic Wholesale",
 ]
 MARGIN_NOTES = [
-    "Margin 22%", "Target margin 18%", "Bulk discount applies 15%",
-    "VIP margin 25%", "Promo margin 12%",
+    "Margin 22%",
+    "Target margin 18%",
+    "Bulk discount applies 15%",
+    "VIP margin 25%",
+    "Promo margin 12%",
 ]
 WAREHOUSE_NOTES = [
-    "Warehouse A-12", "Stock in WH3 Berlin", "Fulfilled from NL depot",
-    "Backorder until 02/15", "Low stock alert",
+    "Warehouse A-12",
+    "Stock in WH3 Berlin",
+    "Fulfilled from NL depot",
+    "Backorder until 02/15",
+    "Low stock alert",
 ]
 
 
@@ -75,8 +116,15 @@ def price_for_country(base_usd: float, country: str, currency: str) -> float:
     """Convert base USD to local price (simplified regional multipliers)."""
     # Rough conversion and regional adjustment
     rates = {
-        "GHS": 12.5, "NGN": 1550, "XOF": 600, "ZAR": 18, "KES": 128,
-        "EUR": 0.92, "GBP": 0.79, "USD": 1.0, "CAD": 1.36,
+        "GHS": 12.5,
+        "NGN": 1550,
+        "XOF": 600,
+        "ZAR": 18,
+        "KES": 128,
+        "EUR": 0.92,
+        "GBP": 0.79,
+        "USD": 1.0,
+        "CAD": 1.36,
     }
     rate = rates.get(currency, 1.0)
     local = base_usd * rate * random.uniform(0.95, 1.15)
@@ -146,18 +194,29 @@ def main():
         price = price_for_country(base_usd, country, currency)
         internal_notes = generate_internal_notes()
 
-        rows.append({
-            "Product_ID": product_id,
-            "Country": country,
-            "Category": category,
-            "Item_Name": item_name,
-            "Price_Local": price,
-            "Currency": currency,
-            "Technical_Specs": specs,
-            "Internal_Notes": internal_notes,
-        })
+        rows.append(
+            {
+                "Product_ID": product_id,
+                "Country": country,
+                "Category": category,
+                "Item_Name": item_name,
+                "Price_Local": price,
+                "Currency": currency,
+                "Technical_Specs": specs,
+                "Internal_Notes": internal_notes,
+            }
+        )
 
-    fieldnames = ["Product_ID", "Country", "Category", "Item_Name", "Price_Local", "Currency", "Technical_Specs", "Internal_Notes"]
+    fieldnames = [
+        "Product_ID",
+        "Country",
+        "Category",
+        "Item_Name",
+        "Price_Local",
+        "Currency",
+        "Technical_Specs",
+        "Internal_Notes",
+    ]
     with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

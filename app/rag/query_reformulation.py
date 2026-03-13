@@ -2,6 +2,7 @@
 Context Query Reformulation: improve retrieval accuracy by expanding and normalizing
 the user query before retrieval (synonyms, abbreviations, product-focused phrasing).
 """
+
 import re
 from typing import List, Tuple
 

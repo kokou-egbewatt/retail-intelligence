@@ -1,6 +1,7 @@
 """
 Query service: thin wrapper around RAG pipeline for use by API or other callers.
 """
+
 from typing import Optional
 
 from app.rag.pipeline import RAGResponse, run_rag
