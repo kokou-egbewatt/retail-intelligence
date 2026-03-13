@@ -1,7 +1,7 @@
 """
 Build FAISS vector index from cleaned product data.
 - Loads data/processed/products_clean.csv
-- Embeds searchable_text with sentence-transformers
+- Embeds internal_notes with sentence-transformers
 - Stores vectors in FAISS and metadata (country, product_id, category) in JSON
 - Saves under vector_store/faiss_index
 
@@ -47,7 +47,7 @@ def _load_model():
 
 def main():
     base = Path(__file__).resolve().parent.parent.parent
-    clean_path = base / "data" / "processed" / "products_clean.csv"
+    clean_path = base / "data" / "processed" / "products_data_3000.csv"
     store_dir = base / "vector_store" / "faiss_index"
     store_dir.mkdir(parents=True, exist_ok=True)
 
@@ -57,7 +57,7 @@ def main():
         )
 
     df = pd.read_csv(clean_path)
-    texts = df["searchable_text"].fillna("").astype(str).tolist()
+    texts = df["Internal_Notes"].fillna("").astype(str).tolist()
 
     model = _load_model()
     print("Creating embeddings...")
@@ -80,7 +80,7 @@ def main():
             "price_local": row.get("Price_Local"),
             "currency": str(row.get("Currency", "")).strip(),
             "technical_specs": str(row.get("Technical_Specs", "")).strip(),
-            "searchable_text": str(row.get("searchable_text", "")).strip(),
+            "internal_notes": str(row.get("Internal_Notes", "")).strip(),
         })
 
     faiss.write_index(index, str(store_dir / "index.faiss"))

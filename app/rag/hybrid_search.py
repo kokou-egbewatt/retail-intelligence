@@ -58,9 +58,9 @@ class HybridRetriever:
         self._index = faiss.read_index(str(self.index_dir / "index.faiss"))
         with open(self.index_dir / "metadata.json", "r", encoding="utf-8") as f:
             self._metadata = json.load(f)
-        self._model = _load_sentence_transformer(self.model_name)
-        # BM25 on searchable_text
-        corpus = [m.get("searchable_text", "") for m in self._metadata]
+        self._model = SentenceTransformer(self.model_name)
+        # BM25 on internal_notes
+        corpus = [m.get("internal_notes", "") for m in self._metadata]
         self._tokenized_corpus = [doc.lower().split() for doc in corpus]
         self._bm25 = BM25Okapi(self._tokenized_corpus)
 

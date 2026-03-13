@@ -21,7 +21,7 @@ def main():
         print("Re-running clean to merge task data...")
         clean_main()
     else:
-        clean_path = project_root / "data" / "processed" / "products_clean.csv"
+        clean_path = project_root / "data" / "processed" / "products_data_3000.csv"
         if not clean_path.exists():
             print("Cleaned data not found. Running ingestion pipeline...")
             clean_main()

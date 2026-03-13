@@ -14,7 +14,7 @@ ALLOWED_RETURN_FIELDS = frozenset({
     "price_local",
     "currency",
     "technical_specs",
-    "searchable_text",
+    "internal_notes",
     "score",  # added by retriever
 })
 

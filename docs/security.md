@@ -146,7 +146,7 @@ flowchart LR
 
     subgraph C["pipelines/ingestion/clean_data.py"]
         direction TB
-        C1["Drop Internal_Notes"] --> C2["Build searchable_text\n(name + specs + category)"]
+        C1["Drop Internal_Notes"] --> C2["Build internal_notes\n(name + specs + category)"]
     end
 
     C --> D["📄 data/processed/\ncleaned CSV"]
