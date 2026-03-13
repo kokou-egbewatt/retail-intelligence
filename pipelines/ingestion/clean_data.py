@@ -28,7 +28,7 @@ def standardize_category(s: str) -> str:
 
 def main():
     base = Path(__file__).resolve().parent.parent.parent
-    raw_path = base / "data" / "raw" / "products_raw.csv"
+    raw_path = base / "data" / "raw" / "products_data_3000.csv"
     task1_path = base / "data" / "raw" / "task1_data.csv"
     processed_dir = base / "data" / "processed"
     processed_dir.mkdir(parents=True, exist_ok=True)
@@ -36,7 +36,7 @@ def main():
 
     if not raw_path.exists():
         raise FileNotFoundError(
-            f"Raw data not found: {raw_path}. Run scripts/generate_retail_dataset.py first."
+            f"Raw data not found: {raw_path}. Ensure data/raw/products_data_3000.csv exists."
         )
 
     df = pd.read_csv(raw_path)
